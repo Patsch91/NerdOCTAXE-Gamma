@@ -358,125 +358,7 @@
 				)
 			)
 		)
-		(symbol "mylib7:+0V8"
-			(power)
-			(exclude_from_sim yes)
-			(in_bom no)
-			(on_board no)
-			(property "Reference" "U18"
-				(at 3.81 1.27 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+0V8"
-				(at 0 3.175 90)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Distributor" "-"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+0V8_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+0V8_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0) hide
-					(name "+0V8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "mylib7:BM1368_mode1"
+		(symbol "bitaxe:BM1370_mode1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -489,7 +371,7 @@
 					(justify left)
 				)
 			)
-			(property "Value" "BM1368_mode1"
+			(property "Value" "BM1370_mode1"
 				(at 1.905 21.59 0)
 				(effects
 					(font
@@ -498,7 +380,7 @@
 					(justify left)
 				)
 			)
-			(property "Footprint" "bitaxe:BM1368"
+			(property "Footprint" ""
 				(at 16.51 -33.02 0)
 				(effects
 					(font
@@ -525,7 +407,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "BM1368_mode1_0_1"
+			(symbol "BM1370_mode1_0_1"
 				(rectangle
 					(start -15.24 20.32)
 					(end 15.24 -20.32)
@@ -574,7 +456,7 @@
 					)
 				)
 			)
-			(symbol "BM1368_mode1_1_1"
+			(symbol "BM1370_mode1_1_1"
 				(pin power_in line
 					(at -17.78 17.78 0)
 					(length 2.54)
@@ -596,7 +478,7 @@
 				(pin unspecified line
 					(at -17.78 -5.08 0)
 					(length 2.54)
-					(name "?"
+					(name "ROSC_SEL"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -614,7 +496,7 @@
 				(pin unspecified line
 					(at -17.78 -7.62 0)
 					(length 2.54)
-					(name "?"
+					(name "LITE_PAD"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -632,7 +514,7 @@
 				(pin unspecified line
 					(at -17.78 -10.16 0)
 					(length 2.54)
-					(name "?"
+					(name "INV_CLKO"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -794,7 +676,7 @@
 				(pin unspecified line
 					(at 17.78 -7.62 180)
 					(length 2.54)
-					(name "?"
+					(name "TEMP_P"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -812,7 +694,7 @@
 				(pin unspecified line
 					(at 17.78 -5.08 180)
 					(length 2.54)
-					(name "?"
+					(name "TEMP_N"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1144,6 +1026,124 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "mylib7:+0V8"
+			(power)
+			(exclude_from_sim yes)
+			(in_bom no)
+			(on_board no)
+			(property "Reference" "U18"
+				(at 3.81 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+0V8"
+				(at 0 3.175 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Distributor" "-"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+0V8_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+0V8_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0) hide
+					(name "+0V8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3623,6 +3623,165 @@
 		(uuid "fee4978b-bdbb-4822-afde-531768cd416d")
 	)
 	(symbol
+		(lib_id "bitaxe:BM1370_mode1")
+		(at 214.63 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "00aae592-d8db-4cee-9a32-2c5041753db4")
+		(property "Reference" "U12"
+			(at 199.39 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BM1370_mode1"
+			(at 216.535 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Nerd8:BM1370"
+			(at 231.14 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 207.01 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 214.63 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "972f3b65-3726-43dd-8d0f-66e44b7ff59a")
+		)
+		(pin "11"
+			(uuid "47311360-3cb5-4de2-bfff-1e8c56d3f2de")
+		)
+		(pin "12"
+			(uuid "4b6d8323-3eb4-4bfb-b3df-c27989d16dc5")
+		)
+		(pin "13"
+			(uuid "8c6f6dc0-c2d1-4325-89c8-8ad86213393b")
+		)
+		(pin "14"
+			(uuid "46f5b656-f5ce-425d-a831-771b62bc6ece")
+		)
+		(pin "15"
+			(uuid "83ce11f8-23fc-4491-878f-becac3ffc9d1")
+		)
+		(pin "16"
+			(uuid "ee41c5e7-c643-4c75-a6c9-7b80653f8139")
+		)
+		(pin "17"
+			(uuid "768cafb7-4e9f-4fef-bc08-cdcabe4b0c37")
+		)
+		(pin "18"
+			(uuid "42c855a6-1537-4f76-b520-8ed9c23c9a86")
+		)
+		(pin "19"
+			(uuid "274a6033-c28a-41d4-88b0-65cf0e25d971")
+		)
+		(pin "2"
+			(uuid "5727ab44-1ed0-47f4-97da-78cae686c659")
+		)
+		(pin "20"
+			(uuid "3a416491-d3b1-4b67-ad2b-b4463aa5a652")
+		)
+		(pin "21"
+			(uuid "75dc6b98-e36d-4151-8eb9-7077ee228b81")
+		)
+		(pin "22"
+			(uuid "12d9ab86-ede0-436a-8996-b2bb34a037ec")
+		)
+		(pin "23"
+			(uuid "f701bbea-7996-40b5-b07d-dc5f7bce7c23")
+		)
+		(pin "24"
+			(uuid "14a9fab8-6f25-4179-b2ec-97ac2946f879")
+		)
+		(pin "25"
+			(uuid "c45b8180-83ad-44e5-a916-00c9f7e8cccb")
+		)
+		(pin "26"
+			(uuid "dbff10f9-7554-48da-ac06-af3b88bfb906")
+		)
+		(pin "27"
+			(uuid "f0cb66e2-f34c-4a8d-a285-8f854f2f9a74")
+		)
+		(pin "28"
+			(uuid "5efffb4f-bc51-4097-ab98-a78f9e9f60e9")
+		)
+		(pin "29"
+			(uuid "25ea1df5-4ab8-4bda-a6c0-39c135037904")
+		)
+		(pin "3"
+			(uuid "0ac2ea7d-ee25-4dc6-868f-64a4c9b95df5")
+		)
+		(pin "30"
+			(uuid "03a7aee9-9f80-4b1d-8e74-5a17e25f199f")
+		)
+		(pin "31"
+			(uuid "b63edf76-de1a-451a-ac82-b996ab84bf4c")
+		)
+		(pin "32"
+			(uuid "16b2d8ee-661d-4825-b8a5-aa249728d2fb")
+		)
+		(pin "4"
+			(uuid "9fa531bd-ede9-49a9-a7c3-6d34ae52701f")
+		)
+		(pin "5"
+			(uuid "02431b83-75a9-4a6a-9e6c-35649f433653")
+		)
+		(pin "6"
+			(uuid "6ea6c01a-398f-47ba-8f1e-dd76c3cff2b1")
+		)
+		(pin "7"
+			(uuid "cd652efb-0fbe-41ea-ba5b-8ed511e6ea63")
+		)
+		(pin "8"
+			(uuid "6cbbcc91-10f5-4187-a472-28e114801973")
+		)
+		(pin "9"
+			(uuid "402b43eb-ce62-4724-8ba8-9b6b961d2fd0")
+		)
+		(pin "1"
+			(uuid "752fac39-d68c-4aab-886d-f0f8a568deaa")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
+					(reference "U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+1V2")
 		(at 139.7 137.16 0)
 		(unit 1)
@@ -5031,175 +5190,6 @@
 		)
 	)
 	(symbol
-		(lib_id "mylib7:BM1368_mode1")
-		(at 214.63 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2de5d57d-c9c7-4cb3-aa66-01161e792c72")
-		(property "Reference" "U13"
-			(at 216.8241 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BM1368_mode1"
-			(at 216.8241 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "myfootprints:bm1368-package-modified"
-			(at 231.14 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 207.01 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 214.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "X"
-			(at 214.63 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "47d8800d-0cf1-4db8-8f8b-649bbb18cf3f")
-		)
-		(pin "10"
-			(uuid "b51dcc2e-6915-4651-8c83-52131760c33e")
-		)
-		(pin "11"
-			(uuid "72d56014-0653-424e-9b66-fbd30aabfd10")
-		)
-		(pin "12"
-			(uuid "99e57aec-731e-4810-bf92-78dd7b484180")
-		)
-		(pin "13"
-			(uuid "11350930-8646-4768-a792-56910a391114")
-		)
-		(pin "14"
-			(uuid "39ffcfee-6a37-4dad-a1fc-bbf832dd7d9c")
-		)
-		(pin "15"
-			(uuid "7502d16e-9464-41b5-b914-c534db056587")
-		)
-		(pin "16"
-			(uuid "74c3bcc6-8a31-4ad9-94f4-a9cb4994cc72")
-		)
-		(pin "17"
-			(uuid "1a99b1f3-b3f0-4994-bebb-295040999a3d")
-		)
-		(pin "18"
-			(uuid "9a8a5507-452d-4b01-a823-8784c58f359c")
-		)
-		(pin "19"
-			(uuid "e64e144b-9711-4fc8-af44-495fb4dc0b33")
-		)
-		(pin "2"
-			(uuid "e8020487-ed45-44a6-92c1-61b3efcca83b")
-		)
-		(pin "20"
-			(uuid "74660a8d-19fc-427a-a67b-0a0f81a2131f")
-		)
-		(pin "21"
-			(uuid "174edd74-f3e9-445a-8242-4c9fb9cd9558")
-		)
-		(pin "22"
-			(uuid "ff2a7313-fb49-4ac1-b561-d26cd4444b66")
-		)
-		(pin "23"
-			(uuid "6b84b7e4-9d7f-4206-82ac-0235bca51f96")
-		)
-		(pin "24"
-			(uuid "66642118-d220-43b0-9fa1-cf80e50fb152")
-		)
-		(pin "25"
-			(uuid "ec720c96-ac74-4f32-beec-615560ef69ec")
-		)
-		(pin "26"
-			(uuid "fc40d984-906f-4f88-a156-923ebba58fe3")
-		)
-		(pin "27"
-			(uuid "603e0f76-c1a6-433b-96e7-49eb3efc00ef")
-		)
-		(pin "28"
-			(uuid "42906172-d07c-470d-90b9-db2413a79ff1")
-		)
-		(pin "29"
-			(uuid "f429abe8-5a6a-4305-8679-afd28af02f17")
-		)
-		(pin "3"
-			(uuid "124693c0-0f11-488c-ac6d-8b3febb9705d")
-		)
-		(pin "30"
-			(uuid "04f2cbf5-aa6f-47b4-9def-29f617b22640")
-		)
-		(pin "4"
-			(uuid "50648c94-cb89-41f9-977c-6da0e0aa4ce6")
-		)
-		(pin "5"
-			(uuid "6baa405b-f27e-4bcc-be22-f18550644260")
-		)
-		(pin "6"
-			(uuid "c8fb291b-9602-42d3-b84a-b0eb31914981")
-		)
-		(pin "7"
-			(uuid "d913b9eb-e055-4913-9183-d0700b13f4ab")
-		)
-		(pin "8"
-			(uuid "bf0467ce-ac29-495a-b6fd-f2427c12b895")
-		)
-		(pin "9"
-			(uuid "5faaf5ee-b941-4a71-8be7-196fb9a0dfbf")
-		)
-		(pin "31"
-			(uuid "ec62c40d-398d-4c98-9ded-30dd7354f2b5")
-		)
-		(pin "32"
-			(uuid "4c803000-418c-4ea1-bc40-6c9b8d567c7d")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
-					(reference "U13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 260.35 72.39 0)
 		(unit 1)
@@ -6415,175 +6405,6 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
 					(reference "#PWR0264")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "mylib7:BM1368_mode1")
-		(at 97.79 63.5 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "63b6344c-ffa7-4ffe-9241-ed8aa6fb8fa4")
-		(property "Reference" "U12"
-			(at 99.9841 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "BM1368_mode1"
-			(at 99.9841 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "myfootprints:bm1368-package-modified"
-			(at 114.3 96.52 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 90.17 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 97.79 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "X"
-			(at 97.79 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cd6f3db5-7811-441b-af9e-d4e72e4a8dd3")
-		)
-		(pin "10"
-			(uuid "5c7bb111-1d28-4061-8ae9-35e5500ee44c")
-		)
-		(pin "11"
-			(uuid "b579aed8-4947-45b0-969f-875518ccc5fb")
-		)
-		(pin "12"
-			(uuid "e1528a4d-0c7a-43f5-bf58-7b997a52b05b")
-		)
-		(pin "13"
-			(uuid "2abc5e7f-eb17-4ad7-adb4-f8f8c5540541")
-		)
-		(pin "14"
-			(uuid "e390a290-ecf7-48a0-aed8-ef4085802ced")
-		)
-		(pin "15"
-			(uuid "3b4e349e-0eb2-4ac9-9c0f-e737773d692e")
-		)
-		(pin "16"
-			(uuid "56139b32-a6ac-471e-98fb-3f260337a0df")
-		)
-		(pin "17"
-			(uuid "71df539f-d96a-4e43-8483-62af938a0031")
-		)
-		(pin "18"
-			(uuid "7db5b49c-06f2-4d55-b02a-523b668c12e1")
-		)
-		(pin "19"
-			(uuid "443e4681-0ede-4fa3-b171-524a7e78768f")
-		)
-		(pin "2"
-			(uuid "c9947621-9f9c-4bec-be64-beb930024531")
-		)
-		(pin "20"
-			(uuid "23b01143-6350-4d4c-b616-43fa6da84eb9")
-		)
-		(pin "21"
-			(uuid "2d657d15-a509-440f-b445-4c463c5e71fa")
-		)
-		(pin "22"
-			(uuid "47513721-7e3c-411c-84cc-c48c5287a4e6")
-		)
-		(pin "23"
-			(uuid "37e26f26-bd4b-4e47-a051-bf86df7eef32")
-		)
-		(pin "24"
-			(uuid "bbb8e1fd-bdd4-47d1-889c-9a5b5098b87b")
-		)
-		(pin "25"
-			(uuid "6f3739f7-e727-478d-a3e0-5f9dfd893b96")
-		)
-		(pin "26"
-			(uuid "1592c899-d7a5-40e8-92e6-0f8d460bc651")
-		)
-		(pin "27"
-			(uuid "19b084ea-d77f-43b1-b868-033ccc1d5766")
-		)
-		(pin "28"
-			(uuid "5eafd2c9-901a-4395-a9b2-3874872ce539")
-		)
-		(pin "29"
-			(uuid "c0aec01f-dc84-40f7-9cfa-4158b7747b6d")
-		)
-		(pin "3"
-			(uuid "9b0c2812-9fe0-4d1c-ab5b-a6983ca5545f")
-		)
-		(pin "30"
-			(uuid "eace493d-487b-42ad-aeba-461526e36bea")
-		)
-		(pin "4"
-			(uuid "8e44b7a5-a677-44b4-b3f5-eb04e1f3f7e6")
-		)
-		(pin "5"
-			(uuid "061edd28-84a2-47c8-a98d-03a3d07aea91")
-		)
-		(pin "6"
-			(uuid "6d014f62-390a-40dc-8eb8-98594fe7cc54")
-		)
-		(pin "7"
-			(uuid "c6ff7b4d-1199-48bb-8339-b61dbd4a49f5")
-		)
-		(pin "8"
-			(uuid "7acfde74-efa5-4e2a-9373-9e85c39b08f5")
-		)
-		(pin "9"
-			(uuid "5ec96b72-68a4-4f93-b1be-6158c5d26261")
-		)
-		(pin "31"
-			(uuid "68b797c1-4c46-4931-a02d-4f7a9f4ed971")
-		)
-		(pin "32"
-			(uuid "f1c2bc30-56a5-40c1-bc7f-a750f4e13a83")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
-					(reference "U12")
 					(unit 1)
 				)
 			)
@@ -10043,6 +9864,165 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
 					(reference "#PWR0340")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "bitaxe:BM1370_mode1")
+		(at 97.79 63.5 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f2010604-c3bc-45e6-bd29-9693cead9416")
+		(property "Reference" "U11"
+			(at 82.55 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "BM1370_mode1"
+			(at 99.695 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Nerd8:BM1370"
+			(at 114.3 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 90.17 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 97.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "0d1228ee-b0dc-4d5f-8541-1c44ddc4dff8")
+		)
+		(pin "11"
+			(uuid "4240a9bd-c40a-431f-bae4-be5d64117022")
+		)
+		(pin "12"
+			(uuid "5db008ad-780b-47b5-bc25-bad5ba52a0e3")
+		)
+		(pin "13"
+			(uuid "6507b731-01ab-4700-b372-22c58d2ec77b")
+		)
+		(pin "14"
+			(uuid "406ffb64-0f74-4441-bb55-8ac9085b4770")
+		)
+		(pin "15"
+			(uuid "9ab5cdff-b6d9-469a-90ae-36c0d208bcf3")
+		)
+		(pin "16"
+			(uuid "348e0f45-346c-4529-b8e1-9e89b3979a62")
+		)
+		(pin "17"
+			(uuid "c2cbdc8f-38bd-455d-b209-dcb63b5a698e")
+		)
+		(pin "18"
+			(uuid "1ecea5af-fe17-4b1b-bb2c-bbf916f142a4")
+		)
+		(pin "19"
+			(uuid "c6f933d3-0111-44f0-ba25-8748554baf78")
+		)
+		(pin "2"
+			(uuid "1f52e5d1-3edd-4aab-b703-a3a3b37d4601")
+		)
+		(pin "20"
+			(uuid "cca77bce-91e5-4d13-8706-cb407a1192db")
+		)
+		(pin "21"
+			(uuid "a746a40d-3ad3-46d2-bc15-8bc420cccc50")
+		)
+		(pin "22"
+			(uuid "b8879423-3d2f-4ffb-bd64-783e1a2e2677")
+		)
+		(pin "23"
+			(uuid "d24c7049-f42a-4974-9eeb-86275908c681")
+		)
+		(pin "24"
+			(uuid "bc1d3cff-82f9-4df0-885a-c182969e6212")
+		)
+		(pin "25"
+			(uuid "bc84ff53-4772-438e-8520-6d96de1c91f3")
+		)
+		(pin "26"
+			(uuid "5b9915ab-cfaa-40e6-9cd6-948fea9079fa")
+		)
+		(pin "27"
+			(uuid "26e837c4-44f3-482d-8c8d-596ce001183d")
+		)
+		(pin "28"
+			(uuid "ef51262c-66ed-4ffc-ba99-828e2b22ff48")
+		)
+		(pin "29"
+			(uuid "07409f7c-6a53-4714-9f41-ccb82158b85e")
+		)
+		(pin "3"
+			(uuid "8d195be2-bbb7-4cc0-a53e-be3d7466491a")
+		)
+		(pin "30"
+			(uuid "6b45fd40-04f9-43c0-a8c4-d1f3361f23e6")
+		)
+		(pin "31"
+			(uuid "0f080235-f75f-4f8f-beb3-c66f88f785f7")
+		)
+		(pin "32"
+			(uuid "6bc713a2-429a-45e5-8ff7-84b1bb31ecaa")
+		)
+		(pin "4"
+			(uuid "e02a56dd-7185-409e-acaf-5bc692414508")
+		)
+		(pin "5"
+			(uuid "57124dda-9723-4a26-b70c-5696b86dfe83")
+		)
+		(pin "6"
+			(uuid "55c00ecb-b97d-4013-afac-e722d0abe023")
+		)
+		(pin "7"
+			(uuid "1cc92a92-c922-4b9c-b201-30356e73d696")
+		)
+		(pin "8"
+			(uuid "dcfccbaf-3271-4513-b446-6af884267ba0")
+		)
+		(pin "9"
+			(uuid "9b8073cd-3af0-42e3-9bf1-b3a7c5178a06")
+		)
+		(pin "1"
+			(uuid "054eff76-ff43-4e03-8620-391595ca19b0")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/4cf9c075-d009-4c35-9949-adda70ae20c7/e80b0a8e-8746-4c15-aedd-74be2900e512"
+					(reference "U11")
 					(unit 1)
 				)
 			)
