@@ -370,6 +370,126 @@
 				)
 			)
 		)
+		(symbol "+3V3_2"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+3V3"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+3V3\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+3V3_2_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+3V3_2_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "+5V_1"
 			(power)
 			(pin_numbers hide)
@@ -5951,6 +6071,12 @@
 		(uuid "6d1e3846-e7ce-4623-b44e-c06cac2cac3a")
 	)
 	(junction
+		(at 62.23 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "712fdbf3-c92d-4297-96ba-b71478661fb1")
+	)
+	(junction
 		(at 354.33 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6979,6 +7105,16 @@
 			(type default)
 		)
 		(uuid "2308e6f9-3e16-4c5b-8c41-4c37a8a0c170")
+	)
+	(wire
+		(pts
+			(xy 53.34 127) (xy 54.61 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2354c298-8828-4ca2-814e-2e7cdbad4f56")
 	)
 	(wire
 		(pts
@@ -8122,7 +8258,7 @@
 	)
 	(wire
 		(pts
-			(xy 57.15 123.19) (xy 64.77 123.19)
+			(xy 57.15 123.19) (xy 62.23 123.19)
 		)
 		(stroke
 			(width 0)
@@ -9742,6 +9878,16 @@
 	)
 	(wire
 		(pts
+			(xy 62.23 127) (xy 62.23 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0d0291c-42ee-41bc-8008-3a565be80c2a")
+	)
+	(wire
+		(pts
 			(xy 43.18 149.86) (xy 46.355 149.86)
 		)
 		(stroke
@@ -10209,6 +10355,16 @@
 			(type default)
 		)
 		(uuid "e7306958-a0eb-42c8-8c38-31cfe5751605")
+	)
+	(wire
+		(pts
+			(xy 62.23 123.19) (xy 64.77 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e73135d8-849f-4629-9818-50ab756ff9c7")
 	)
 	(wire
 		(pts
@@ -15302,6 +15458,74 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
 					(reference "C207")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Jumper:SolderJumper_2_Open")
+		(at 58.42 127 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board yes)
+		(dnp no)
+		(uuid "2be558dc-fe05-4e69-9395-743acdffe73d")
+		(property "Reference" "JP3"
+			(at 57.658 124.968 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Disable Phase 4"
+			(at 55.372 129.032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm"
+			(at 58.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 58.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 58.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0cb5bf32-23c6-4fcd-aa27-45eacef3a29e")
+		)
+		(pin "1"
+			(uuid "768ce149-c426-4d44-82f7-50cafc9b9683")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
+					(reference "JP3")
 					(unit 1)
 				)
 			)
@@ -26530,6 +26754,74 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
 					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "+3V3_2")
+		(lib_id "power:+3V3")
+		(at 53.34 127 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3334539-747a-4ec7-8169-01c9208b3e51")
+		(property "Reference" "#PWR0363"
+			(at 57.15 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 49.53 126.9999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 53.34 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 53.34 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 53.34 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "38357e91-05f2-4d02-a5ba-f425e08d0b55")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
+					(reference "#PWR0363")
 					(unit 1)
 				)
 			)
