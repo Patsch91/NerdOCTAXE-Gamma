@@ -5135,9 +5135,9 @@
 		)
 		(symbol "power:+1V2"
 			(power)
+			(pin_numbers hide)
 			(pin_names
-				(offset 0)
-			)
+				(offset 0) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -5235,128 +5235,8 @@
 			(symbol "+1V2_1_1"
 				(pin power_in line
 					(at 0 0 90)
-					(length 0) hide
-					(name "+1V2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "power:+1V8"
-			(power)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "#PWR"
-				(at 0 -3.81 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Value" "+1V8"
-				(at 0 3.556 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Power symbol creates a global label with name \"+1V8\""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "global power"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "+1V8_0_1"
-				(polyline
-					(pts
-						(xy -0.762 1.27) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0) (xy 0 2.54)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 2.54) (xy 0.762 1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "+1V8_1_1"
-				(pin power_in line
-					(at 0 0 90)
-					(length 0) hide
-					(name "+1V8"
+					(length 0)
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -5801,6 +5681,126 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+			)
+		)
+		(symbol "power:VDD"
+			(power)
+			(pin_numbers hide)
+			(pin_names
+				(offset 0) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "VDD"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"VDD\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "VDD_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "VDD_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -11129,7 +11129,7 @@
 		)
 		(uuid "2e2b6c01-d1f8-4caa-b463-24ccec5fcbaf")
 	)
-	(hierarchical_label "+1V2"
+	(hierarchical_label "VDD"
 		(shape output)
 		(at 31.75 26.67 180)
 		(fields_autoplaced yes)
@@ -11177,7 +11177,7 @@
 		)
 		(uuid "9464e3f1-5b58-4c06-ae10-7f4f82629fe7")
 	)
-	(hierarchical_label "+1V8"
+	(hierarchical_label "+1V2"
 		(shape output)
 		(at 31.75 34.29 180)
 		(fields_autoplaced yes)
@@ -15862,7 +15862,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V2")
+		(lib_id "power:VDD")
 		(at 429.26 101.6 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -15880,12 +15880,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1V2"
-			(at 429.26 96.52 0)
+		(property "Value" "VDD"
+			(at 431.8 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -15906,7 +15907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
 			(at 429.26 101.6 0)
 			(effects
 				(font
@@ -18344,7 +18345,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V8")
+		(lib_id "power:+1V2")
 		(at 39.37 34.29 270)
 		(mirror x)
 		(unit 1)
@@ -18363,8 +18364,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 43.18 34.29 90)
+		(property "Value" "+1V2"
+			(at 43.18 34.2899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18390,7 +18391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+1V2\""
 			(at 39.37 34.29 0)
 			(effects
 				(font
@@ -24643,7 +24644,7 @@
 				)
 			)
 		)
-		(property "Value" "MCP1824T-1802E"
+		(property "Value" "MCP1824T-1202E"
 			(at 215.265 253.365 0)
 			(effects
 				(font
@@ -24696,7 +24697,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "MCP1824T-1802E/OTCT-ND"
+		(property "OrderNr" "MCP1824T-1202E/OTCT-ND"
 			(at 215.265 258.445 0)
 			(effects
 				(font
@@ -24714,7 +24715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "MCP1824T-1802E/OT"
+		(property "Manufacturer" "MCP1824T-1202E/OT"
 			(at 215.265 258.445 0)
 			(effects
 				(font
@@ -25041,7 +25042,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V8")
+		(lib_id "power:+1V2")
 		(at 233.045 255.905 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25059,12 +25060,13 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1V8"
-			(at 233.045 251.46 0)
+		(property "Value" "+1V2"
+			(at 234.95 254.6349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
@@ -25085,7 +25087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+1V2\""
 			(at 233.045 255.905 0)
 			(effects
 				(font
@@ -30601,7 +30603,7 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+1V2")
+		(lib_id "power:VDD")
 		(at 39.37 26.67 270)
 		(mirror x)
 		(unit 1)
@@ -30620,8 +30622,8 @@
 				(hide yes)
 			)
 		)
-		(property "Value" "+1V2"
-			(at 42.545 26.67 90)
+		(property "Value" "VDD"
+			(at 43.18 26.6699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30647,7 +30649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"VDD\""
 			(at 39.37 26.67 0)
 			(effects
 				(font

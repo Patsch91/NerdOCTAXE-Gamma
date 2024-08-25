@@ -1695,7 +1695,7 @@
 				(justify left top)
 			)
 		)
-		(pin "+1V2" input
+		(pin "VDD" input
 			(at 82.55 97.79 180)
 			(effects
 				(font
@@ -1705,7 +1705,7 @@
 			)
 			(uuid "98d606a4-14c8-4e93-a570-da31e11b5134")
 		)
-		(pin "+1V8" input
+		(pin "+1V2" input
 			(at 82.55 99.695 180)
 			(effects
 				(font
@@ -1802,7 +1802,7 @@
 				(justify left top)
 			)
 		)
-		(pin "+1V2" output
+		(pin "VDD" output
 			(at 99.695 52.07 0)
 			(effects
 				(font
@@ -1822,7 +1822,7 @@
 			)
 			(uuid "bba4c22b-dcce-4596-bd74-6c80522aedb9")
 		)
-		(pin "+1V8" output
+		(pin "+1V2" output
 			(at 99.695 53.975 0)
 			(effects
 				(font
