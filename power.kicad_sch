@@ -14010,7 +14010,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -14028,7 +14028,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "478-KGM15ACG2A120JMCT-ND"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -18896,7 +18896,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -18914,7 +18914,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "490-8291-1-ND"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -19283,6 +19283,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 125.73 97.155 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "541-16.5KCCT-ND"
+			(at 125.73 97.155 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23633,7 +23651,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -23651,7 +23669,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "490-8291-1-ND"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -24024,7 +24042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -24042,7 +24060,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "490-8291-1-ND"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -26356,7 +26374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26374,7 +26392,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "RMCF0805FT16K2CT-ND"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26510,6 +26528,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 125.73 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 125.73 106.045 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-24.3KCRCT-ND"
+			(at 125.73 106.045 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28469,7 +28505,7 @@
 				)
 			)
 		)
-		(property "Value" "66.5k"
+		(property "Value" "49.9k"
 			(at 44.45 119.38 90)
 			(effects
 				(font
@@ -28497,6 +28533,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 39.37 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 39.37 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-49.9KCRCT-ND"
+			(at 39.37 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30335,7 +30389,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -30353,7 +30407,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "490-8291-1-ND"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -30715,6 +30769,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 78.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 78.74 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-2.55KCRCT-ND"
+			(at 78.74 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31754,6 +31826,24 @@
 		)
 		(property "Description" "Resistor"
 			(at 62.23 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 62.23 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT121KCT-ND"
+			(at 62.23 92.71 90)
 			(effects
 				(font
 					(size 1.27 1.27)
