@@ -2,7 +2,7 @@
 
 The NerdOCTAXEγ is a 8-Asic version of the [NerdQAxe++](https://github.com/shufps/qaxe) with [Nerdminer](https://github.com/BitMaker-hub/NerdMiner_v2) / [Nerdaxe](https://github.com/BitMaker-hub/NerdAxeUltra) Display and is running the [BitAxe](https://github.com/skot/bitaxe) Firmware as its Core.
 
-It runs standalone and uses 8 ASICs of type BM1370 to achieve an average Hashrate of ~9-10Th/s at ~180Watts 
+It runs standalone and uses 8 ASICs of type BM1370 to achieve a Hashrate of ~9-10Th/s at ~180Watts 
 
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/feat_bm1370/GammaFront.jpg" width="700px">
@@ -10,7 +10,7 @@ It runs standalone and uses 8 ASICs of type BM1370 to achieve an average Hashrat
 Highlights:
 
 - uses the NerdAxe / NerdMiner display
-- 3-Phase Buck  // The TPS could handle 4 Phases... currently thinking of changing it to 4-Phase design
+- 4-Phase Buck  
 - Standalone, no Raspberry Pi or other PC needed
 - AxeOS with improvements and enhancements - slightly modified version of [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus)
   - Influx DB support
@@ -18,7 +18,7 @@ Highlights:
   - ASIC clock and voltage adjustable without reboot
   - Stratum client stability improvements (TCP timeouts)
 
-The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus) (Releases für NerdOCTAXE-Gamma)
+The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus) (Releases for NerdOCTAXE-Gamma)
 
 -------------------------------
 
