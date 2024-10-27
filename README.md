@@ -18,7 +18,7 @@ Highlights:
   - ASIC clock and voltage adjustable without reboot
   - Stratum client stability improvements (TCP timeouts)
 
-The NerdOCTAXE+ runs with a modified version of the AxeOS: https://github.com/Patsch91/ESP-Miner-NerdOctaxePlus 
+The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus) (Releases für NerdOCTAXE-Gamma)
 
 -------------------------------
 
