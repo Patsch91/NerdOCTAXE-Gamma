@@ -1,4 +1,4 @@
-<img src="https://github.com/Patsch91/NerdOCTAXE-Plus/blob/main/Nerd0ctaxe%2B-Logo%20green250.png" width="250px">
+<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/feat_bm1370/Nerd0ctaxeGamma-Logo%20Big.png" width="250px">
 
 The NerdOCTAXEγ is a 8-Asic version of the [NerdQAxe++](https://github.com/shufps/qaxe) with [Nerdminer](https://github.com/BitMaker-hub/NerdMiner_v2) / [Nerdaxe](https://github.com/BitMaker-hub/NerdAxeUltra) Display and is running the [BitAxe](https://github.com/skot/bitaxe) Firmware as its Core.
 
