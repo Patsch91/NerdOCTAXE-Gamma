@@ -10756,7 +10756,7 @@
 		)
 		(uuid "1fb606e8-7ae8-4515-9067-7010bb799de5")
 	)
-	(text "for IMAX=90A"
+	(text "for IMAX=180A"
 		(exclude_from_sim no)
 		(at 36.83 120.65 90)
 		(effects
@@ -28505,8 +28505,8 @@
 				)
 			)
 		)
-		(property "Value" "49.9k"
-			(at 44.45 119.38 90)
+		(property "Value" "33.2k"
+			(at 43.942 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28549,7 +28549,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "311-49.9KCRCT-ND"
+		(property "OrderNr" "RMCF0805FT33K2CT-ND"
 			(at 39.37 119.38 90)
 			(effects
 				(font
