@@ -23111,7 +23111,7 @@
 		(descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C227"
-			(at 0 -1.68 360)
+			(at 0 -1.68 0)
 			(layer "F.SilkS")
 			(uuid "d3c1cd9d-4d15-4d3a-b595-0ba1bf8b3909")
 			(effects
@@ -23122,7 +23122,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 1.68 360)
+			(at 0 1.68 0)
 			(layer "F.Fab")
 			(uuid "61deedf6-5160-4c8b-a628-0d5092b5f5dd")
 			(effects
@@ -23300,7 +23300,7 @@
 			(uuid "166f5a7b-e350-47dc-8a93-d72b6c39a5b9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "1d1bc96c-b9f6-4b79-98cc-283ecba08e58")
 			(effects
@@ -99694,22 +99694,6 @@
 		(uuid "21ec47a6-eca0-43db-8da3-e44163aced1f")
 	)
 	(segment
-		(start 114.289218 54.411644)
-		(end 114.069218 54.411644)
-		(width 0.8)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "505818f1-d4e2-40c2-977d-d16e73199a34")
-	)
-	(segment
-		(start 115.989218 52.711644)
-		(end 115.549218 53.151644)
-		(width 0.8)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "59078348-95a0-440f-9a63-a14db22c6036")
-	)
-	(segment
 		(start 115.989218 48.795902)
 		(end 115.989218 52.711644)
 		(width 0.8)
@@ -99718,28 +99702,12 @@
 		(uuid "5e63fb08-505c-4202-864b-a28980f7020a")
 	)
 	(segment
-		(start 114.730983 53.969879)
-		(end 114.289218 54.411644)
-		(width 0.8)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "629caf07-c77f-4d4e-9826-d7873e504345")
-	)
-	(segment
 		(start 118.166476 46.618644)
 		(end 115.989218 48.795902)
 		(width 0.8)
 		(layer "B.Cu")
 		(net 5)
 		(uuid "8925f150-0da8-4805-a970-275ed7a95543")
-	)
-	(segment
-		(start 114.069218 54.411644)
-		(end 111.529218 54.411644)
-		(width 0.8)
-		(layer "B.Cu")
-		(net 5)
-		(uuid "e911cd47-bff9-4c1c-930a-30b60f047fb9")
 	)
 	(segment
 		(start 117.749218 51.734144)
@@ -107420,14 +107388,6 @@
 		(uuid "33be064b-7cf3-40f8-8877-f64a0b4ac4ab")
 	)
 	(segment
-		(start 93.371644 100.751644)
-		(end 91.195 98.575)
-		(width 0.8)
-		(layer "B.Cu")
-		(net 29)
-		(uuid "67b4a375-12ed-4a53-8c9e-77ece6c43e9e")
-	)
-	(segment
 		(start 87.56 94.43)
 		(end 87.56 93.44)
 		(width 0.3)
@@ -114412,14 +114372,6 @@
 		(uuid "a1df3ae6-358a-4353-9944-7758a3f20aeb")
 	)
 	(segment
-		(start 93.071644 101.651644)
-		(end 91.505 100.085)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 107)
-		(uuid "b29a3d3d-21cd-414f-babf-087392bde1c7")
-	)
-	(segment
 		(start 118.830983 101.651644)
 		(end 93.071644 101.651644)
 		(width 0.3)
@@ -114674,14 +114626,6 @@
 		(layer "B.Cu")
 		(net 108)
 		(uuid "98888720-b64a-48d0-9856-826b30a0629c")
-	)
-	(segment
-		(start 92.271644 102.301644)
-		(end 90.87 100.9)
-		(width 0.3)
-		(layer "B.Cu")
-		(net 108)
-		(uuid "9e5b26ec-b150-425a-aece-566dfa3e50ff")
 	)
 	(segment
 		(start 85.96 95.99)
@@ -142851,8 +142795,8 @@
 				(xy 84.9345 95.845131) (xy 84.9345 96.134856) (xy 84.934502 96.134882) (xy 84.937413 96.159987)
 				(xy 84.937415 96.159991) (xy 84.982793 96.262764) (xy 84.982794 96.262765) (xy 85.062235 96.342206)
 				(xy 85.165009 96.387585) (xy 85.190135 96.3905) (xy 85.45283 96.390499) (xy 85.45284 96.3905) (xy 85.467273 96.3905)
-				(xy 85.742745 96.3905) (xy 85.809784 96.410185) (xy 85.830426 96.426819) (xy 90.54952 101.145913)
-				(xy 92.025731 102.622124) (xy 92.117056 102.674851) (xy 92.218917 102.702144) (xy 92.218919 102.702144)
+				(xy 85.742745 96.3905) (xy 85.809784 96.410185) (xy 85.830426 96.426819) (xy 91.951164 102.547557)
+				(xy 92.025731 102.622124) (xy 92.117057 102.674851) (xy 92.218917 102.702144) (xy 92.218919 102.702144)
 				(xy 119.233708 102.702144) (xy 119.23371 102.702144) (xy 119.335571 102.674851) (xy 119.426896 102.622124)
 				(xy 128.651463 93.397557) (xy 128.70419 93.306232) (xy 128.731483 93.204371) (xy 128.731483 93.098917)
 				(xy 128.731483 90.721699) (xy 128.751168 90.65466) (xy 128.773257 90.628883) (xy 128.821465 90.586175)
