@@ -3614,7 +3614,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 123.19 36.83 0)
 			(effects
 				(font
@@ -3795,7 +3795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 121.92 142.24 0)
 			(effects
 				(font
@@ -4039,7 +4039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 165.1 36.83 0)
 			(effects
 				(font
@@ -4153,7 +4153,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 264.16 36.83 0)
 			(effects
 				(font
@@ -4399,7 +4399,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 66.04 142.24 0)
 			(effects
 				(font
@@ -5007,7 +5007,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 88.9 142.24 0)
 			(effects
 				(font
@@ -5255,7 +5255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 109.22 36.83 0)
 			(effects
 				(font
@@ -5499,7 +5499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 260.35 72.39 0)
 			(effects
 				(font
@@ -5729,7 +5729,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 240.03 36.83 0)
 			(effects
 				(font
@@ -6117,7 +6117,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 73.66 142.24 0)
 			(effects
 				(font
@@ -6432,7 +6432,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 176.53 36.83 0)
 			(effects
 				(font
@@ -6680,7 +6680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 135.89 36.83 0)
 			(effects
 				(font
@@ -6861,7 +6861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 189.23 36.83 0)
 			(effects
 				(font
@@ -7042,7 +7042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 43.18 142.24 0)
 			(effects
 				(font
@@ -7156,7 +7156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 49.53 36.83 0)
 			(effects
 				(font
@@ -7410,7 +7410,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 111.76 142.24 0)
 			(effects
 				(font
@@ -7664,7 +7664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 201.93 36.83 0)
 			(effects
 				(font
@@ -7778,7 +7778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 60.96 36.83 0)
 			(effects
 				(font
@@ -7892,7 +7892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 147.32 36.83 0)
 			(effects
 				(font
@@ -8214,7 +8214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 1% 1/4W 0805"
 			(at 64.77 80.01 0)
 			(effects
 				(font
@@ -8385,7 +8385,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 31.75 142.24 0)
 			(effects
 				(font
@@ -8499,7 +8499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 38.1 142.24 0)
 			(effects
 				(font
@@ -8747,7 +8747,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 146.05 142.24 0)
 			(effects
 				(font
@@ -8861,7 +8861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 49.53 142.24 0)
 			(effects
 				(font
@@ -9173,7 +9173,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 1% 1/4W 0805"
 			(at 181.61 80.01 0)
 			(effects
 				(font
@@ -9269,7 +9269,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 88.9 36.83 0)
 			(effects
 				(font
@@ -9448,7 +9448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 134.62 72.39 0)
 			(effects
 				(font
@@ -9611,7 +9611,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 128.27 142.24 0)
 			(effects
 				(font
@@ -9792,7 +9792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 226.06 36.83 0)
 			(effects
 				(font
@@ -9906,7 +9906,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 154.94 142.24 0)
 			(effects
 				(font
@@ -10002,7 +10002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 252.73 36.83 0)
 			(effects
 				(font
@@ -10391,7 +10391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 105.41 142.24 0)
 			(effects
 				(font
@@ -10712,7 +10712,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 139.7 142.24 0)
 			(effects
 				(font
@@ -10893,7 +10893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -11141,7 +11141,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 81.28 142.24 0)
 			(effects
 				(font
@@ -11254,7 +11254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES SMD 2K OHM 1% 1/8W 0805"
 			(at 139.7 72.39 0)
 			(effects
 				(font

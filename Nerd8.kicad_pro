@@ -702,7 +702,7 @@
           "group_by": false,
           "label": "Beschreibung",
           "name": "Description",
-          "show": false
+          "show": true
         },
         {
           "group_by": false,

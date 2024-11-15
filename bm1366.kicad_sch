@@ -3522,7 +3522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATOR UNIDIR 14TSSOP"
 			(at 157.48 34.29 0)
 			(effects
 				(font
@@ -3847,7 +3847,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -3961,7 +3961,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 30.48 90.17 0)
 			(effects
 				(font
@@ -4751,7 +4751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "XTAL OSC XO 25.0000MHZ CMOS SMD"
 			(at 49.53 85.09 0)
 			(effects
 				(font
@@ -4927,7 +4927,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 71.12 106.68 0)
 			(effects
 				(font
@@ -5023,7 +5023,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 109.22 35.56 0)
 			(effects
 				(font

@@ -1335,7 +1335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN BARRIER STRIP 4CIRC 0.374\""
 			(at 27.94 46.99 0)
 			(effects
 				(font
@@ -1437,7 +1437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "TVS DIODE 12VWM 19.9VC DO214AA"
 			(at 55.245 58.42 0)
 			(effects
 				(font
@@ -1608,7 +1608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FUSE BRD MNT 20A 65VAC 65VDC SMD"
 			(at 50.165 52.07 0)
 			(effects
 				(font
@@ -1635,7 +1635,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "F2593CT-ND"
+		(property "OrderNr" "F8251CT-ND"
 			(at 50.165 52.07 0)
 			(effects
 				(font

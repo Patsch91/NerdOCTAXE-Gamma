@@ -6727,7 +6727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 253.365 83.185 0)
 			(effects
 				(font
@@ -6842,7 +6842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 4POS 2.54MM"
 			(at 266.065 150.495 0)
 			(effects
 				(font
@@ -6944,7 +6944,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 167.767 51.816 0)
 			(effects
 				(font
@@ -7123,7 +7123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1C IC TEMPERATURE SENSOR WITH PE"
 			(at 225.425 56.515 0)
 			(effects
 				(font
@@ -7363,7 +7363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic screw terminal, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "TERMINAL BLOCK, SCREW TYPE, 5.00"
 			(at 120.396 33.274 0)
 			(effects
 				(font
@@ -7528,7 +7528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 253.365 55.245 0)
 			(effects
 				(font
@@ -7642,7 +7642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 192.405 106.045 0)
 			(effects
 				(font
@@ -7891,7 +7891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 2.7K OHM 1% 1/8W 0805"
 			(at 255.905 113.665 0)
 			(effects
 				(font
@@ -8252,7 +8252,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATOR UNIDIR SC70-6"
 			(at 171.196 77.978 0)
 			(effects
 				(font
@@ -8624,7 +8624,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1C IC TEMPERATURE SENSOR WITH PE"
 			(at 225.425 84.455 0)
 			(effects
 				(font
@@ -9076,7 +9076,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "WR-PHD 2.54 MM SOCKET HEADER 12"
 			(at 27.94 190.5 0)
 			(effects
 				(font
@@ -9201,7 +9201,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC MOTOR DRIVER 3V-3.6V 10MSOP"
 			(at 159.385 139.065 0)
 			(effects
 				(font
@@ -9367,7 +9367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 60.325 190.5 0)
 			(effects
 				(font
@@ -9494,7 +9494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "WR-PHD 2.54 MM SOCKET HEADER 12"
 			(at 27.94 181.61 0)
 			(effects
 				(font
@@ -9620,7 +9620,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 174.752 51.816 0)
 			(effects
 				(font
@@ -10135,7 +10135,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 68.58 69.088 0)
 			(effects
 				(font
@@ -10430,7 +10430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 4POS 2.54MM"
 			(at 266.065 120.015 0)
 			(effects
 				(font
@@ -10532,7 +10532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 157.988 25.146 0)
 			(effects
 				(font
@@ -10761,7 +10761,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 144.145 161.925 0)
 			(effects
 				(font
@@ -11074,7 +11074,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123"
 			(at 95.25 93.218 0)
 			(effects
 				(font
@@ -11521,7 +11521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATOR UNIDIR 8VSSOP"
 			(at 210.185 133.985 0)
 			(effects
 				(font
@@ -11836,7 +11836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 2.7K OHM 1% 1/8W 0805"
 			(at 255.905 144.145 0)
 			(effects
 				(font
@@ -12131,7 +12131,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 200.025 106.045 0)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 60.325 181.61 0)
 			(effects
 				(font

@@ -11726,7 +11726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG BUCK ADJ 1.5A SOT23-6"
 			(at 49.53 218.44 0)
 			(effects
 				(font
@@ -11900,7 +11900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 373.38 71.755 0)
 			(effects
 				(font
@@ -12063,7 +12063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 203.2 0)
 			(effects
 				(font
@@ -12227,7 +12227,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 374.65 113.03 0)
 			(effects
 				(font
@@ -12323,7 +12323,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 234.95 59.69 0)
 			(effects
 				(font
@@ -12618,7 +12618,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 349.25 113.03 0)
 			(effects
 				(font
@@ -12715,7 +12715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -12811,7 +12811,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 384.81 113.03 0)
 			(effects
 				(font
@@ -12973,7 +12973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 273.685 26.67 0)
 			(effects
 				(font
@@ -13268,7 +13268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 330.2 71.12 0)
 			(effects
 				(font
@@ -13364,7 +13364,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 174.625 264.795 0)
 			(effects
 				(font
@@ -13546,7 +13546,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 414.02 113.03 0)
 			(effects
 				(font
@@ -13641,7 +13641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 186.69 50.8 0)
 			(effects
 				(font
@@ -13737,7 +13737,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 389.89 113.03 0)
 			(effects
 				(font
@@ -13833,7 +13833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 389.89 71.12 0)
 			(effects
 				(font
@@ -13930,7 +13930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 12PF 100V C0G/NP0 0603"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -14159,7 +14159,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 271.78 113.03 0)
 			(effects
 				(font
@@ -14587,7 +14587,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 285.75 113.03 0)
 			(effects
 				(font
@@ -14681,7 +14681,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 241.3 54.61 0)
 			(effects
 				(font
@@ -14843,7 +14843,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 334.01 113.03 0)
 			(effects
 				(font
@@ -14939,7 +14939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG CTRLR VR12 1OUT 40WQFN"
 			(at 76.2 121.92 0)
 			(effects
 				(font
@@ -15341,7 +15341,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 278.13 113.03 0)
 			(effects
 				(font
@@ -15506,7 +15506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
 			(at 195.58 68.58 0)
 			(effects
 				(font
@@ -15603,7 +15603,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 119.38 0)
 			(effects
 				(font
@@ -15766,7 +15766,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 386.08 41.91 0)
 			(effects
 				(font
@@ -15929,7 +15929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -16025,7 +16025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 339.09 113.03 0)
 			(effects
 				(font
@@ -16122,7 +16122,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
 			(at 196.85 119.38 0)
 			(effects
 				(font
@@ -16218,7 +16218,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 356.87 71.755 0)
 			(effects
 				(font
@@ -16312,7 +16312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/8W 0805"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -16541,7 +16541,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 16V X5R 1206"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -16637,7 +16637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 379.73 113.03 0)
 			(effects
 				(font
@@ -16731,7 +16731,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 198.12 0)
 			(effects
 				(font
@@ -16893,7 +16893,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 8.06K OHM 1% 1/8W 0805"
 			(at 68.58 151.13 0)
 			(effects
 				(font
@@ -16989,7 +16989,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 317.5 113.03 0)
 			(effects
 				(font
@@ -17086,7 +17086,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 189.23 68.58 0)
 			(effects
 				(font
@@ -17183,7 +17183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 162.56 0)
 			(effects
 				(font
@@ -17346,7 +17346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 405.765 71.12 0)
 			(effects
 				(font
@@ -17642,7 +17642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 312.42 71.12 0)
 			(effects
 				(font
@@ -17739,7 +17739,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -18034,7 +18034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 377.19 42.545 0)
 			(effects
 				(font
@@ -18261,7 +18261,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 143.51 135.255 0)
 			(effects
 				(font
@@ -18357,7 +18357,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 311.15 113.03 0)
 			(effects
 				(font
@@ -18522,7 +18522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 212.09 0)
 			(effects
 				(font
@@ -18951,7 +18951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -19115,7 +19115,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
 			(at 196.85 212.09 0)
 			(effects
 				(font
@@ -19278,7 +19278,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 96.52 0)
 			(effects
 				(font
@@ -19372,7 +19372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 16.5K OHM 1% 1/8W 0805"
 			(at 125.73 97.155 0)
 			(effects
 				(font
@@ -19468,7 +19468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 364.49 113.03 0)
 			(effects
 				(font
@@ -19564,7 +19564,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 293.37 57.15 0)
 			(effects
 				(font
@@ -19812,7 +19812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -20243,7 +20243,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -20431,7 +20431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 2.2 OHM 1% 1/2W 0805"
 			(at 116.84 151.13 0)
 			(effects
 				(font
@@ -20594,7 +20594,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
 			(at 46.355 152.4 0)
 			(effects
 				(font
@@ -20690,7 +20690,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 347.98 71.755 0)
 			(effects
 				(font
@@ -20921,7 +20921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 111.125 0)
 			(effects
 				(font
@@ -21018,7 +21018,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
 			(at 196.85 162.56 0)
 			(effects
 				(font
@@ -21114,7 +21114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
 			(at 46.355 142.24 0)
 			(effects
 				(font
@@ -21345,7 +21345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 27.94 226.06 0)
 			(effects
 				(font
@@ -21573,7 +21573,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 354.33 113.03 0)
 			(effects
 				(font
@@ -21736,7 +21736,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 294.005 26.67 0)
 			(effects
 				(font
@@ -21898,7 +21898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 278.13 57.15 0)
 			(effects
 				(font
@@ -22078,7 +22078,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 194.31 0)
 			(effects
 				(font
@@ -22208,7 +22208,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 250.19 66.04 0)
 			(effects
 				(font
@@ -22302,7 +22302,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 4.7UH 2.3A 55.9MOHM SM"
 			(at 66.04 218.44 0)
 			(effects
 				(font
@@ -22529,7 +22529,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 100 OHM 1% 1/8W 0805"
 			(at 40.64 144.78 0)
 			(effects
 				(font
@@ -22625,7 +22625,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 394.97 113.03 0)
 			(effects
 				(font
@@ -22722,7 +22722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 68.58 161.29 0)
 			(effects
 				(font
@@ -23015,7 +23015,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 148.59 0)
 			(effects
 				(font
@@ -23111,7 +23111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 196.215 263.525 0)
 			(effects
 				(font
@@ -23225,7 +23225,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 130.81 262.89 0)
 			(effects
 				(font
@@ -23520,7 +23520,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 4.7UF 25V X5R 0805"
 			(at 91.44 165.1 0)
 			(effects
 				(font
@@ -23617,7 +23617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -23781,7 +23781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 160.02 0)
 			(effects
 				(font
@@ -23877,7 +23877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -23973,7 +23973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 304.8 113.03 0)
 			(effects
 				(font
@@ -24268,7 +24268,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -24431,7 +24431,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0805 330NF 25V X7R 10%"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -24526,7 +24526,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -24622,7 +24622,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 269.875 56.515 0)
 			(effects
 				(font
@@ -24802,7 +24802,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 0.8V 300MA SOT23-5"
 			(at 158.115 258.445 0)
 			(effects
 				(font
@@ -24923,7 +24923,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 1.2V 300MA SOT23-5"
 			(at 215.265 258.445 0)
 			(effects
 				(font
@@ -25112,7 +25112,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 153.67 0)
 			(effects
 				(font
@@ -25539,7 +25539,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10000PF 10V X7R 0805"
 			(at 59.69 214.63 0)
 			(effects
 				(font
@@ -25634,7 +25634,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 101.6 0)
 			(effects
 				(font
@@ -25840,7 +25840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 139.065 263.525 0)
 			(effects
 				(font
@@ -25954,7 +25954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 233.045 264.795 0)
 			(effects
 				(font
@@ -26070,7 +26070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -26166,7 +26166,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 365.76 71.755 0)
 			(effects
 				(font
@@ -26262,7 +26262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 401.32 113.03 0)
 			(effects
 				(font
@@ -26492,7 +26492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 381.635 71.755 0)
 			(effects
 				(font
@@ -26654,7 +26654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 16.2K OHM 1% 1/8W 0805"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26815,7 +26815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 24.3K OHM 1% 1/8W 0805"
 			(at 125.73 106.045 0)
 			(effects
 				(font
@@ -27044,7 +27044,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 144.78 0)
 			(effects
 				(font
@@ -27340,7 +27340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
 			(at 46.355 147.32 0)
 			(effects
 				(font
@@ -27436,7 +27436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 406.4 113.03 0)
 			(effects
 				(font
@@ -27532,7 +27532,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 339.09 71.755 0)
 			(effects
 				(font
@@ -27694,7 +27694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 397.51 71.12 0)
 			(effects
 				(font
@@ -27790,7 +27790,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 227.33 44.45 0)
 			(effects
 				(font
@@ -28113,7 +28113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 359.41 113.03 0)
 			(effects
 				(font
@@ -28276,7 +28276,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 187.96 0)
 			(effects
 				(font
@@ -28373,7 +28373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -28467,7 +28467,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 105.41 0)
 			(effects
 				(font
@@ -28696,7 +28696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 321.31 71.12 0)
 			(effects
 				(font
@@ -28856,7 +28856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 33.2K OHM 1% 1/8W 0805"
 			(at 39.37 119.38 0)
 			(effects
 				(font
@@ -29152,7 +29152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 2200PF 50V C0G/NP0 0805"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -29381,7 +29381,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 100 OHM 1% 1/8W 0805"
 			(at 40.64 149.86 0)
 			(effects
 				(font
@@ -29686,7 +29686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 194.31 0)
 			(effects
 				(font
@@ -29781,7 +29781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 0 OHM JUMPER 1/8W 0805"
 			(at 429.26 132.08 0)
 			(effects
 				(font
@@ -29941,7 +29941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 129.54 123.19 0)
 			(effects
 				(font
@@ -30037,7 +30037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 313.69 26.67 0)
 			(effects
 				(font
@@ -30133,7 +30133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 368.3 41.91 0)
 			(effects
 				(font
@@ -30361,7 +30361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 84.5K OHM 1% 1/8W 0805"
 			(at 72.39 223.52 0)
 			(effects
 				(font
@@ -30456,7 +30456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 144.78 0)
 			(effects
 				(font
@@ -30585,7 +30585,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 284.48 57.15 0)
 			(effects
 				(font
@@ -30699,7 +30699,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 369.57 113.03 0)
 			(effects
 				(font
@@ -30795,7 +30795,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -31091,7 +31091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2.55K OHM 1% 1/8W 0805"
 			(at 78.74 156.21 0)
 			(effects
 				(font
@@ -31395,7 +31395,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 40V 3A SOD128"
 			(at 59.69 233.68 0)
 			(effects
 				(font
@@ -31557,7 +31557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 298.45 113.03 0)
 			(effects
 				(font
@@ -31930,7 +31930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 334.01 25.4 0)
 			(effects
 				(font
@@ -32157,7 +32157,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 121K OHM 1% 1/8W 0805"
 			(at 62.23 92.71 0)
 			(effects
 				(font
@@ -32319,7 +32319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 292.1 113.03 0)
 			(effects
 				(font
@@ -32615,7 +32615,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 212.09 0)
 			(effects
 				(font
@@ -32910,7 +32910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 212.09 50.8 0)
 			(effects
 				(font
@@ -33037,7 +33037,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 0 OHM JUMPER 1/8W 0805"
 			(at 431.8 132.08 0)
 			(effects
 				(font
@@ -33200,7 +33200,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 325.12 113.03 0)
 			(effects
 				(font
@@ -33429,7 +33429,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 110.49 0)
 			(effects
 				(font
@@ -33602,7 +33602,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 344.17 113.03 0)
 			(effects
 				(font
@@ -33696,7 +33696,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 2.2 OHM 1% 1/2W 0805"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -33859,7 +33859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 330.2 113.03 0)
 			(effects
 				(font
@@ -33955,7 +33955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 96.52 165.1 0)
 			(effects
 				(font
