@@ -5353,7 +5353,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 254.635 86.995 0)
 			(effects
 				(font
@@ -5380,7 +5380,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 253.365 83.185 0)
 			(effects
 				(font
@@ -5399,6 +5399,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 253.365 83.185 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 253.365 83.185 0)
 			(effects
 				(font
@@ -5468,7 +5513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 4POS 2.54MM"
 			(at 266.065 150.495 0)
 			(effects
 				(font
@@ -5496,6 +5541,24 @@
 			)
 		)
 		(property "OrderNr" "WM4330-ND"
+			(at 266.065 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Molex"
+			(at 266.065 150.495 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1x04_P2.54mm_Vertical"
 			(at 266.065 150.495 0)
 			(effects
 				(font
@@ -5635,7 +5698,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1C IC TEMPERATURE SENSOR WITH PE"
 			(at 225.425 56.515 0)
 			(effects
 				(font
@@ -5663,6 +5726,24 @@
 			)
 		)
 		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
+			(at 225.425 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 225.425 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 225.425 56.515 0)
 			(effects
 				(font
@@ -5849,7 +5930,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 254.635 59.055 0)
 			(effects
 				(font
@@ -5876,7 +5957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 253.365 55.245 0)
 			(effects
 				(font
@@ -5895,6 +5976,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 253.365 55.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 253.365 55.245 0)
 			(effects
 				(font
@@ -5936,7 +6062,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 193.675 109.855 0)
 			(effects
 				(font
@@ -5963,7 +6089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 192.405 106.045 0)
 			(effects
 				(font
@@ -5982,6 +6108,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 192.405 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 192.405 106.045 0)
 			(effects
 				(font
@@ -6118,7 +6289,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 2.7K OHM 1% 1/8W 0805"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT2K70"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT2K70CT-ND"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 255.905 113.665 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 255.905 113.665 0)
 			(effects
 				(font
@@ -6518,7 +6734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1C IC TEMPERATURE SENSOR WITH PE"
 			(at 225.425 84.455 0)
 			(effects
 				(font
@@ -6546,6 +6762,24 @@
 			)
 		)
 		(property "OrderNr" "296-TMP1075NDRLRCT-ND"
+			(at 225.425 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 225.425 84.455 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 225.425 84.455 0)
 			(effects
 				(font
@@ -6588,7 +6822,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "633f64ef-4ff0-4245-8488-eb7b957f904b")
 		(property "Reference" "U30"
@@ -6634,7 +6868,25 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "X"
+		(property "Distributor" ""
+			(at 144.145 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 144.145 64.135 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 144.145 64.135 0)
 			(effects
 				(font
@@ -6903,7 +7155,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "WR-PHD 2.54 MM SOCKET HEADER 12"
 			(at 27.94 190.5 0)
 			(effects
 				(font
@@ -6931,6 +7183,24 @@
 			)
 		)
 		(property "OrderNr" "732-61301211821-ND"
+			(at 27.94 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 27.94 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 27.94 190.5 0)
 			(effects
 				(font
@@ -7028,7 +7298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC MOTOR DRIVER 3V-3.6V 10MSOP"
 			(at 159.385 139.065 0)
 			(effects
 				(font
@@ -7101,6 +7371,24 @@
 			)
 		)
 		(property "OrderNr" "EMC2302-1-AIZL-CT-ND"
+			(at 159.385 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Microchip Technology"
+			(at 159.385 139.065 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "MSOP-10_3x3mm_P0.5mm"
 			(at 159.385 139.065 0)
 			(effects
 				(font
@@ -7194,7 +7482,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 60.325 190.5 0)
 			(effects
 				(font
@@ -7222,6 +7510,24 @@
 			)
 		)
 		(property "OrderNr" "2057-PH1-12-UA-ND"
+			(at 60.325 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Adam Tech"
+			(at 60.325 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 60.325 190.5 0)
 			(effects
 				(font
@@ -7321,7 +7627,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "WR-PHD 2.54 MM SOCKET HEADER 12"
 			(at 27.94 181.61 0)
 			(effects
 				(font
@@ -7349,6 +7655,24 @@
 			)
 		)
 		(property "OrderNr" "732-61301211821-ND"
+			(at 27.94 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 27.94 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 27.94 181.61 0)
 			(effects
 				(font
@@ -7848,7 +8172,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 83.185 75.565 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 83.185 75.565 0)
 			(effects
 				(font
@@ -8050,7 +8419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CONN HEADER VERT 4POS 2.54MM"
 			(at 266.065 120.015 0)
 			(effects
 				(font
@@ -8078,6 +8447,24 @@
 			)
 		)
 		(property "OrderNr" "WM4330-ND"
+			(at 266.065 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Molex"
+			(at 266.065 120.015 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1x04_P2.54mm_Vertical"
 			(at 266.065 120.015 0)
 			(effects
 				(font
@@ -8258,7 +8645,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 145.415 165.735 0)
 			(effects
 				(font
@@ -8285,7 +8672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 144.145 161.925 0)
 			(effects
 				(font
@@ -8304,6 +8691,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 144.145 161.925 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 144.145 161.925 0)
 			(effects
 				(font
@@ -8504,7 +8936,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123"
 			(at 109.855 99.695 0)
 			(effects
 				(font
@@ -8550,6 +8982,24 @@
 			)
 		)
 		(property "OrderNr" "31-1N5819HWQ-7-FCT-ND"
+			(at 109.855 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Diodes Incorporated"
+			(at 109.855 99.695 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SOD-123"
 			(at 109.855 99.695 0)
 			(effects
 				(font
@@ -8884,7 +9334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATOR UNIDIR 8VSSOP"
 			(at 210.185 133.985 0)
 			(effects
 				(font
@@ -8912,6 +9362,24 @@
 			)
 		)
 		(property "OrderNr" "296-TXU0102DCURCT-ND"
+			(at 210.185 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 210.185 133.985 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 210.185 133.985 0)
 			(effects
 				(font
@@ -9199,7 +9667,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 2.7K OHM 1% 1/8W 0805"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT2K70"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT2K70CT-ND"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 255.905 144.145 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 255.905 144.145 0)
 			(effects
 				(font
@@ -9373,7 +9886,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 201.295 109.855 0)
 			(effects
 				(font
@@ -9400,7 +9913,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 200.025 106.045 0)
 			(effects
 				(font
@@ -9419,6 +9932,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 200.025 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 200.025 106.045 0)
 			(effects
 				(font
@@ -9488,7 +10046,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x12, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "CONN HEADER VERT 12POS 2.54MM"
 			(at 60.325 181.61 0)
 			(effects
 				(font
@@ -9516,6 +10074,24 @@
 			)
 		)
 		(property "OrderNr" "2057-PH1-12-UA-ND"
+			(at 60.325 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Adam Tech"
+			(at 60.325 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 60.325 181.61 0)
 			(effects
 				(font

@@ -11824,7 +11824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG BUCK ADJ 1.5A SOT23-6"
 			(at 49.53 218.44 0)
 			(effects
 				(font
@@ -11852,6 +11852,24 @@
 			)
 		)
 		(property "OrderNr" "AP3211KTR-G1DICT-ND"
+			(at 49.53 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Diodes Incorporated"
+			(at 49.53 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SOT-23-6"
 			(at 49.53 218.44 0)
 			(effects
 				(font
@@ -11998,7 +12016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 373.38 71.755 0)
 			(effects
 				(font
@@ -12026,6 +12044,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 373.38 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 373.38 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 373.38 71.755 0)
 			(effects
 				(font
@@ -12161,7 +12197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 203.2 0)
 			(effects
 				(font
@@ -12189,6 +12225,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 236.22 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 236.22 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 236.22 203.2 0)
 			(effects
 				(font
@@ -12325,7 +12379,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 374.65 113.03 0)
 			(effects
 				(font
@@ -12353,6 +12407,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 374.65 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 374.65 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 374.65 113.03 0)
 			(effects
 				(font
@@ -12421,7 +12493,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 234.95 59.69 0)
 			(effects
 				(font
@@ -12449,6 +12521,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 234.95 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 234.95 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 234.95 59.69 0)
 			(effects
 				(font
@@ -12716,7 +12806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 349.25 113.03 0)
 			(effects
 				(font
@@ -12744,6 +12834,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 349.25 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 349.25 113.03 0)
 			(effects
 				(font
@@ -12786,7 +12894,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "1n/0.7mm"
 			(at 54.61 91.44 90)
 			(effects
 				(font
@@ -12813,7 +12921,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -12822,7 +12930,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -12831,7 +12939,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CC0805KRX7R0BB102"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -12840,7 +12948,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-1472-1-ND"
+			(at 55.88 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 55.88 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 55.88 92.71 0)
 			(effects
 				(font
@@ -12909,7 +13035,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 384.81 113.03 0)
 			(effects
 				(font
@@ -12937,6 +13063,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 384.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 384.81 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 384.81 113.03 0)
 			(effects
 				(font
@@ -13071,7 +13215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 273.685 26.67 0)
 			(effects
 				(font
@@ -13080,7 +13224,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 273.685 26.67 0)
 			(effects
 				(font
@@ -13089,7 +13233,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 273.685 26.67 0)
 			(effects
 				(font
@@ -13098,7 +13242,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 273.685 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 273.685 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 273.685 26.67 0)
 			(effects
 				(font
@@ -13366,7 +13528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 330.2 71.12 0)
 			(effects
 				(font
@@ -13394,6 +13556,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 330.2 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 330.2 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 330.2 71.12 0)
 			(effects
 				(font
@@ -13435,7 +13615,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 175.895 268.605 0)
 			(effects
 				(font
@@ -13462,7 +13642,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 174.625 264.795 0)
 			(effects
 				(font
@@ -13482,6 +13662,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 174.625 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 174.625 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 174.625 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 174.625 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 174.625 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 174.625 264.795 0)
 			(effects
 				(font
@@ -13617,7 +13842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 414.02 113.03 0)
 			(effects
 				(font
@@ -13645,6 +13870,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 414.02 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 414.02 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 414.02 113.03 0)
 			(effects
 				(font
@@ -13712,7 +13955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 186.69 50.8 0)
 			(effects
 				(font
@@ -13740,6 +13983,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 186.69 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 186.69 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 186.69 50.8 0)
 			(effects
 				(font
@@ -13808,7 +14069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 389.89 113.03 0)
 			(effects
 				(font
@@ -13836,6 +14097,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 389.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 389.89 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 389.89 113.03 0)
 			(effects
 				(font
@@ -13904,7 +14183,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 389.89 71.12 0)
 			(effects
 				(font
@@ -13932,6 +14211,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 389.89 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 389.89 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 389.89 71.12 0)
 			(effects
 				(font
@@ -14001,7 +14298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 12PF 100V C0G/NP0 0603"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -14019,7 +14316,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "KGM15ACG2A120JM"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -14029,6 +14326,24 @@
 			)
 		)
 		(property "OrderNr" "478-KGM15ACG2A120JMCT-ND"
+			(at 62.23 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KYOCERA AVX"
+			(at 62.23 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0603"
 			(at 62.23 154.94 0)
 			(effects
 				(font
@@ -14230,7 +14545,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 271.78 113.03 0)
 			(effects
 				(font
@@ -14258,6 +14573,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 271.78 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 271.78 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 271.78 113.03 0)
 			(effects
 				(font
@@ -14658,7 +14991,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 285.75 113.03 0)
 			(effects
 				(font
@@ -14686,6 +15019,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 285.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 285.75 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 285.75 113.03 0)
 			(effects
 				(font
@@ -14752,7 +15103,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 241.3 54.61 0)
 			(effects
 				(font
@@ -14780,6 +15131,24 @@
 			)
 		)
 		(property "OrderNr" "283-FP1008R5-R220-RCT-ND"
+			(at 241.3 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Eaton - Electronics Division"
+			(at 241.3 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 241.3 54.61 0)
 			(effects
 				(font
@@ -14914,7 +15283,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 334.01 113.03 0)
 			(effects
 				(font
@@ -14942,6 +15311,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 334.01 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 334.01 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 334.01 113.03 0)
 			(effects
 				(font
@@ -15010,7 +15397,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG CTRLR VR12 1OUT 40WQFN"
 			(at 76.2 121.92 0)
 			(effects
 				(font
@@ -15038,6 +15425,24 @@
 			)
 		)
 		(property "OrderNr" "296-51986-1-ND"
+			(at 91.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 91.44 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 91.44 121.92 0)
 			(effects
 				(font
@@ -15412,7 +15817,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 278.13 113.03 0)
 			(effects
 				(font
@@ -15448,6 +15853,24 @@
 				(hide yes)
 			)
 		)
+		(property "Brand" "KEMET"
+			(at 278.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
+			(at 278.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d781e502-b055-4408-8ea4-22f356656c99")
 		)
@@ -15470,7 +15893,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "2be558dc-fe05-4e69-9395-743acdffe73d")
 		(property "Reference" "JP3"
 			(at 57.658 124.968 0)
@@ -15508,6 +15931,24 @@
 			)
 		)
 		(property "Description" "Solder Jumper, 2-pole, open"
+			(at 58.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 58.42 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 58.42 127 0)
 			(effects
 				(font
@@ -15577,7 +16018,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
+			(at 195.58 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21A225KAFNNNG"
+			(at 195.58 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-6458-1-ND"
+			(at 195.58 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 195.58 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 195.58 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 195.58 68.58 0)
 			(effects
 				(font
@@ -15647,7 +16133,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 119.38 0)
 			(effects
 				(font
@@ -15675,6 +16161,24 @@
 			)
 		)
 		(property "OrderNr" "311-3037-1-ND"
+			(at 190.5 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 190.5 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 190.5 119.38 0)
 			(effects
 				(font
@@ -15810,7 +16314,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 386.08 41.91 0)
 			(effects
 				(font
@@ -15838,6 +16342,24 @@
 			)
 		)
 		(property "OrderNr" "732-6489-1-ND"
+			(at 386.08 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 386.08 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "8x10"
 			(at 386.08 41.91 0)
 			(effects
 				(font
@@ -15946,7 +16468,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 231.775 142.24 90)
 			(effects
 				(font
@@ -15973,7 +16495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -15982,7 +16504,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -15991,7 +16513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "AC0805KRX7R9BB104"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -16000,7 +16522,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-3037-1-ND"
+			(at 228.6 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 228.6 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 228.6 138.43 0)
 			(effects
 				(font
@@ -16069,7 +16609,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 339.09 113.03 0)
 			(effects
 				(font
@@ -16097,6 +16637,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 339.09 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 339.09 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 339.09 113.03 0)
 			(effects
 				(font
@@ -16166,7 +16724,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21A225KAFNNNG"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-6458-1-ND"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 196.85 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 196.85 119.38 0)
 			(effects
 				(font
@@ -16235,7 +16838,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 356.87 71.755 0)
 			(effects
 				(font
@@ -16263,6 +16866,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 356.87 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 356.87 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 356.87 71.755 0)
 			(effects
 				(font
@@ -16329,7 +16950,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 100K OHM 1% 1/8W 0805"
+			(at 45.72 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT100K"
+			(at 45.72 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT100KCT-ND"
+			(at 45.72 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 45.72 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 45.72 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 45.72 92.71 0)
 			(effects
 				(font
@@ -16531,7 +17197,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 16V X5R 1206"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -16540,7 +17206,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -16549,7 +17215,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL31A226MOCLNNC"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -16558,7 +17224,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-2728-1-ND"
+			(at 85.09 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 85.09 228.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1206"
 			(at 85.09 228.6 0)
 			(effects
 				(font
@@ -16627,7 +17311,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 379.73 113.03 0)
 			(effects
 				(font
@@ -16655,6 +17339,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 379.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 379.73 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 379.73 113.03 0)
 			(effects
 				(font
@@ -16703,7 +17405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Qaxe:IFLR-4031GC-01-8x10"
+		(property "Footprint" "myfootprints:IFLR-4031GC-01-8x10"
 			(at 242.57 198.12 0)
 			(effects
 				(font
@@ -16721,7 +17423,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 198.12 0)
 			(effects
 				(font
@@ -16749,6 +17451,24 @@
 			)
 		)
 		(property "OrderNr" "283-FP1008R5-R220-RCT-ND"
+			(at 242.57 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Eaton - Electronics Division"
+			(at 242.57 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 242.57 198.12 0)
 			(effects
 				(font
@@ -16883,7 +17603,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 8.06K OHM 1% 1/8W 0805"
+			(at 68.58 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT8K06"
+			(at 68.58 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT8K06CT-ND"
+			(at 68.58 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 68.58 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 68.58 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 68.58 151.13 0)
 			(effects
 				(font
@@ -16952,7 +17717,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 317.5 113.03 0)
 			(effects
 				(font
@@ -16980,6 +17745,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 317.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 317.5 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 317.5 113.03 0)
 			(effects
 				(font
@@ -17049,7 +17832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 189.23 68.58 0)
 			(effects
 				(font
@@ -17077,6 +17860,24 @@
 			)
 		)
 		(property "OrderNr" "311-3037-1-ND"
+			(at 189.23 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 189.23 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 189.23 68.58 0)
 			(effects
 				(font
@@ -17146,7 +17947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 162.56 0)
 			(effects
 				(font
@@ -17174,6 +17975,24 @@
 			)
 		)
 		(property "OrderNr" "311-3037-1-ND"
+			(at 190.5 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 190.5 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 190.5 162.56 0)
 			(effects
 				(font
@@ -17309,7 +18128,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 405.765 71.12 0)
 			(effects
 				(font
@@ -17337,6 +18156,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 405.765 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 405.765 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 405.765 71.12 0)
 			(effects
 				(font
@@ -17605,7 +18442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 312.42 71.12 0)
 			(effects
 				(font
@@ -17633,6 +18470,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 312.42 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 312.42 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 312.42 71.12 0)
 			(effects
 				(font
@@ -17702,7 +18557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -17730,6 +18585,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 234.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 234.95 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -17997,7 +18870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 377.19 42.545 0)
 			(effects
 				(font
@@ -18025,6 +18898,24 @@
 			)
 		)
 		(property "OrderNr" "732-6489-1-ND"
+			(at 377.19 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 377.19 42.545 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "8x10"
 			(at 377.19 42.545 0)
 			(effects
 				(font
@@ -18224,7 +19115,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
+			(at 143.51 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 143.51 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 143.51 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 143.51 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 143.51 135.255 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 143.51 135.255 0)
 			(effects
 				(font
@@ -18293,7 +19229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 311.15 113.03 0)
 			(effects
 				(font
@@ -18321,6 +19257,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 311.15 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 311.15 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 311.15 113.03 0)
 			(effects
 				(font
@@ -18458,7 +19412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 190.5 212.09 0)
 			(effects
 				(font
@@ -18486,6 +19440,24 @@
 			)
 		)
 		(property "OrderNr" "311-3037-1-ND"
+			(at 190.5 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 190.5 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 190.5 212.09 0)
 			(effects
 				(font
@@ -18887,7 +19859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -18905,7 +19877,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "GRM2165C2A332JA01D"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -18915,6 +19887,24 @@
 			)
 		)
 		(property "OrderNr" "490-8291-1-ND"
+			(at 265.43 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 265.43 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 265.43 26.67 0)
 			(effects
 				(font
@@ -19051,7 +20041,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21A225KAFNNNG"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-6458-1-ND"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 196.85 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 196.85 212.09 0)
 			(effects
 				(font
@@ -19160,7 +20195,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 231.775 100.33 90)
 			(effects
 				(font
@@ -19187,7 +20222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 96.52 0)
 			(effects
 				(font
@@ -19196,7 +20231,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 228.6 96.52 0)
 			(effects
 				(font
@@ -19205,7 +20240,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "AC0805KRX7R9BB104"
 			(at 228.6 96.52 0)
 			(effects
 				(font
@@ -19214,7 +20249,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-3037-1-ND"
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 228.6 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 228.6 96.52 0)
 			(effects
 				(font
@@ -19281,7 +20334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 16.5K OHM 1% 1/8W 0805"
 			(at 125.73 97.155 0)
 			(effects
 				(font
@@ -19301,6 +20354,33 @@
 		)
 		(property "OrderNr" "541-16.5KCCT-ND"
 			(at 125.73 97.155 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CRCW080516K5FKEA"
+			(at 125.73 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 125.73 97.155 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 125.73 97.155 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19368,7 +20448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 364.49 113.03 0)
 			(effects
 				(font
@@ -19396,6 +20476,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 364.49 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 364.49 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 364.49 113.03 0)
 			(effects
 				(font
@@ -19437,7 +20535,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ/25V"
 			(at 294.64 60.96 0)
 			(effects
 				(font
@@ -19464,7 +20562,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 293.37 57.15 0)
 			(effects
 				(font
@@ -19510,6 +20608,24 @@
 			)
 		)
 		(property "OrderNr" "445-5984-1-ND"
+			(at 293.37 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "TDK Corporation"
+			(at 293.37 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 293.37 57.15 0)
 			(effects
 				(font
@@ -19685,7 +20801,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "1n/0.7mm"
 			(at 133.35 138.43 90)
 			(effects
 				(font
@@ -19712,7 +20828,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -19721,7 +20837,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -19730,7 +20846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CC0805KRX7R0BB102"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -19739,7 +20855,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-1472-1-ND"
+			(at 137.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 137.16 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 137.16 134.62 0)
 			(effects
 				(font
@@ -20116,7 +21250,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 85.09 163.83 90)
 			(effects
 				(font
@@ -20143,7 +21277,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -20152,7 +21286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -20161,7 +21295,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -20170,7 +21304,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 86.36 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 86.36 165.1 0)
 			(effects
 				(font
@@ -20276,6 +21428,24 @@
 				(hide yes)
 			)
 		)
+		(property "Brand" "Würth Elektronik"
+			(at 436.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
+			(at 436.88 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18af669e-1ff6-46ca-98b4-ef480b7d0a77")
 		)
@@ -20331,7 +21501,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 2.2 OHM 1% 1/2W 0805"
 			(at 116.84 151.13 0)
 			(effects
 				(font
@@ -20359,6 +21529,24 @@
 			)
 		)
 		(property "OrderNr" "541-10524-1-ND"
+			(at 116.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 116.84 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 116.84 151.13 0)
 			(effects
 				(font
@@ -20494,7 +21682,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
+			(at 46.355 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 46.355 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KGM15ACG1H220JT"
+			(at 46.355 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "478-KGM15ACG1H220JTCT-ND"
+			(at 46.355 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KYOCERA AVX"
+			(at 46.355 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0603"
 			(at 46.355 152.4 0)
 			(effects
 				(font
@@ -20563,7 +21796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 347.98 71.755 0)
 			(effects
 				(font
@@ -20591,6 +21824,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 347.98 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 347.98 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 347.98 71.755 0)
 			(effects
 				(font
@@ -20794,7 +22045,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 111.125 0)
 			(effects
 				(font
@@ -20822,6 +22073,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 251.46 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 251.46 111.125 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 251.46 111.125 0)
 			(effects
 				(font
@@ -20891,7 +22160,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 2.2UF 25V X5R 0805"
+			(at 196.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21A225KAFNNNG"
+			(at 196.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-6458-1-ND"
+			(at 196.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 196.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 196.85 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 196.85 162.56 0)
 			(effects
 				(font
@@ -20960,7 +22274,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
+			(at 46.355 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 46.355 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KGM15ACG1H220JT"
+			(at 46.355 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "478-KGM15ACG1H220JTCT-ND"
+			(at 46.355 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KYOCERA AVX"
+			(at 46.355 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0603"
 			(at 46.355 142.24 0)
 			(effects
 				(font
@@ -21164,7 +22523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 27.94 226.06 0)
 			(effects
 				(font
@@ -21192,6 +22551,24 @@
 			)
 		)
 		(property "OrderNr" "445-5984-1-ND"
+			(at 27.94 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "TDK Corporation"
+			(at 27.94 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 27.94 226.06 0)
 			(effects
 				(font
@@ -21392,7 +22769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 354.33 113.03 0)
 			(effects
 				(font
@@ -21420,6 +22797,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 354.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 354.33 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 354.33 113.03 0)
 			(effects
 				(font
@@ -21555,7 +22950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 294.005 26.67 0)
 			(effects
 				(font
@@ -21564,7 +22959,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 294.005 26.67 0)
 			(effects
 				(font
@@ -21573,7 +22968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 294.005 26.67 0)
 			(effects
 				(font
@@ -21582,7 +22977,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 294.005 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 294.005 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 294.005 26.67 0)
 			(effects
 				(font
@@ -21690,7 +23103,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ/25V"
 			(at 279.4 60.96 0)
 			(effects
 				(font
@@ -21717,7 +23130,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 278.13 57.15 0)
 			(effects
 				(font
@@ -21763,6 +23176,24 @@
 			)
 		)
 		(property "OrderNr" "445-5984-1-ND"
+			(at 278.13 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "TDK Corporation"
+			(at 278.13 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 278.13 57.15 0)
 			(effects
 				(font
@@ -21897,7 +23328,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 194.31 0)
 			(effects
 				(font
@@ -21925,6 +23356,24 @@
 			)
 		)
 		(property "OrderNr" "296-43950-1-ND"
+			(at 213.36 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 213.36 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SON-5x6"
 			(at 213.36 194.31 0)
 			(effects
 				(font
@@ -22027,7 +23476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 250.19 66.04 0)
 			(effects
 				(font
@@ -22055,6 +23504,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 250.19 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 250.19 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 250.19 66.04 0)
 			(effects
 				(font
@@ -22121,7 +23588,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 4.7UH 2.3A 55.9MOHM SM"
 			(at 66.04 218.44 0)
 			(effects
 				(font
@@ -22149,6 +23616,24 @@
 			)
 		)
 		(property "OrderNr" "732-7244-1-ND"
+			(at 66.04 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 66.04 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 66.04 218.44 0)
 			(effects
 				(font
@@ -22348,7 +23833,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 100 OHM 1% 1/8W 0805"
+			(at 40.64 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RC0805FR-07100RL"
+			(at 40.64 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 40.64 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 40.64 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 40.64 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 40.64 144.78 0)
 			(effects
 				(font
@@ -22417,7 +23947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 394.97 113.03 0)
 			(effects
 				(font
@@ -22445,6 +23975,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 394.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 394.97 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 394.97 113.03 0)
 			(effects
 				(font
@@ -22487,7 +24035,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n"
+		(property "Value" "1n/0.7mm"
 			(at 64.77 165.1 90)
 			(effects
 				(font
@@ -22514,7 +24062,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 68.58 161.29 0)
 			(effects
 				(font
@@ -22523,7 +24071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 68.58 161.29 0)
 			(effects
 				(font
@@ -22532,7 +24080,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CC0805KRX7R0BB102"
 			(at 68.58 161.29 0)
 			(effects
 				(font
@@ -22541,7 +24089,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-1472-1-ND"
+			(at 68.58 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 68.58 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 68.58 161.29 0)
 			(effects
 				(font
@@ -22807,7 +24373,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 148.59 0)
 			(effects
 				(font
@@ -22835,6 +24401,24 @@
 			)
 		)
 		(property "OrderNr" "283-FP1008R5-R220-RCT-ND"
+			(at 242.57 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Eaton - Electronics Division"
+			(at 242.57 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 242.57 148.59 0)
 			(effects
 				(font
@@ -22876,7 +24460,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 197.485 267.335 0)
 			(effects
 				(font
@@ -22903,7 +24487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 196.215 263.525 0)
 			(effects
 				(font
@@ -22922,6 +24506,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 196.215 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 196.215 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 196.215 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 196.215 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 196.215 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 196.215 263.525 0)
 			(effects
 				(font
@@ -22990,7 +24619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
 			(at 130.81 262.89 0)
 			(effects
 				(font
@@ -22999,7 +24628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 130.81 262.89 0)
 			(effects
 				(font
@@ -23008,7 +24637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RMCF0805FT10K0"
 			(at 130.81 262.89 0)
 			(effects
 				(font
@@ -23017,7 +24646,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 130.81 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 130.81 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 130.81 262.89 0)
 			(effects
 				(font
@@ -23285,7 +24932,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 4.7UF 25V X5R 0805"
 			(at 91.44 165.1 0)
 			(effects
 				(font
@@ -23294,7 +24941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 91.44 165.1 0)
 			(effects
 				(font
@@ -23303,7 +24950,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21A475KAQNNNE"
 			(at 91.44 165.1 0)
 			(effects
 				(font
@@ -23312,7 +24959,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1244-1-ND"
+			(at 91.44 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 91.44 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 91.44 165.1 0)
 			(effects
 				(font
@@ -23382,7 +25047,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -23410,6 +25075,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 236.22 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 236.22 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -23546,7 +25229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 160.02 0)
 			(effects
 				(font
@@ -23574,6 +25257,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 251.46 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 251.46 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 251.46 160.02 0)
 			(effects
 				(font
@@ -23642,7 +25343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -23660,7 +25361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "GRM2165C2A332JA01D"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -23670,6 +25371,24 @@
 			)
 		)
 		(property "OrderNr" "490-8291-1-ND"
+			(at 285.75 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 285.75 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 285.75 26.67 0)
 			(effects
 				(font
@@ -23738,7 +25457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 304.8 113.03 0)
 			(effects
 				(font
@@ -23766,6 +25485,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 304.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 304.8 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 304.8 113.03 0)
 			(effects
 				(font
@@ -24033,7 +25770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -24051,7 +25788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "GRM2165C2A332JA01D"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -24061,6 +25798,24 @@
 			)
 		)
 		(property "OrderNr" "490-8291-1-ND"
+			(at 305.435 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 305.435 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 305.435 26.67 0)
 			(effects
 				(font
@@ -24196,7 +25951,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0805 330NF 25V X7R 10%"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -24205,7 +25960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -24214,7 +25969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "C0805C334K3RECAUTO"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -24223,7 +25978,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "399-C0805C334K3RECAUTOCT-ND"
+			(at 83.82 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 83.82 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 83.82 173.99 0)
 			(effects
 				(font
@@ -24291,7 +26064,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -24319,6 +26092,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 187.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 187.96 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 187.96 101.6 0)
 			(effects
 				(font
@@ -24360,7 +26151,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ/25V"
 			(at 271.145 60.325 0)
 			(effects
 				(font
@@ -24387,7 +26178,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 269.875 56.515 0)
 			(effects
 				(font
@@ -24433,6 +26224,24 @@
 			)
 		)
 		(property "OrderNr" "445-5984-1-ND"
+			(at 269.875 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "TDK Corporation"
+			(at 269.875 56.515 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 269.875 56.515 0)
 			(effects
 				(font
@@ -24567,7 +26376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 0.8V 300MA SOT23-5"
 			(at 158.115 258.445 0)
 			(effects
 				(font
@@ -24613,6 +26422,24 @@
 			)
 		)
 		(property "Manufacturer" "MCP1824T-0802E/OT"
+			(at 158.115 258.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Microchip Technology"
+			(at 158.115 258.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SOT-23-5"
 			(at 158.115 258.445 0)
 			(effects
 				(font
@@ -24688,7 +26515,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC REG LINEAR 1.2V 300MA SOT23-5"
 			(at 215.265 258.445 0)
 			(effects
 				(font
@@ -24734,6 +26561,24 @@
 			)
 		)
 		(property "Manufacturer" "MCP1824T-1202E/OT"
+			(at 215.265 258.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Microchip Technology"
+			(at 215.265 258.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SOT-23-5"
 			(at 215.265 258.445 0)
 			(effects
 				(font
@@ -24877,7 +26722,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 153.67 0)
 			(effects
 				(font
@@ -24905,6 +26750,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 236.22 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 236.22 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 236.22 153.67 0)
 			(effects
 				(font
@@ -25304,7 +27167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10000PF 10V X7R 0805"
 			(at 59.69 214.63 0)
 			(effects
 				(font
@@ -25313,7 +27176,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 59.69 214.63 0)
 			(effects
 				(font
@@ -25322,7 +27185,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "885012207011"
 			(at 59.69 214.63 0)
 			(effects
 				(font
@@ -25331,7 +27194,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "732-8021-1-ND"
+			(at 59.69 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 59.69 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 59.69 214.63 0)
 			(effects
 				(font
@@ -25399,7 +27280,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 101.6 0)
 			(effects
 				(font
@@ -25427,6 +27308,24 @@
 			)
 		)
 		(property "OrderNr" "296-43950-1-ND"
+			(at 213.36 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 213.36 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SON-5x6"
 			(at 213.36 101.6 0)
 			(effects
 				(font
@@ -25490,7 +27389,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "9ef3570a-e88f-4ef2-b391-5b6b296334d1")
 		(property "Reference" "JP2"
 			(at 148.59 125.984 0)
@@ -25536,7 +27435,25 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "-"
+		(property "Distributor" ""
+			(at 148.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 148.59 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 148.59 128.27 0)
 			(effects
 				(font
@@ -25578,7 +27495,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 140.335 267.335 0)
 			(effects
 				(font
@@ -25605,7 +27522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 139.065 263.525 0)
 			(effects
 				(font
@@ -25624,6 +27541,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 139.065 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 139.065 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 139.065 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 139.065 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 139.065 263.525 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 139.065 263.525 0)
 			(effects
 				(font
@@ -25665,7 +27627,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 234.95 268.605 0)
 			(effects
 				(font
@@ -25692,7 +27654,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 233.045 264.795 0)
 			(effects
 				(font
@@ -25712,6 +27674,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 233.045 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 233.045 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 233.045 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 233.045 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 233.045 264.795 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 233.045 264.795 0)
 			(effects
 				(font
@@ -25781,7 +27788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -25809,6 +27816,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 251.46 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 251.46 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 251.46 209.55 0)
 			(effects
 				(font
@@ -25877,7 +27902,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 365.76 71.755 0)
 			(effects
 				(font
@@ -25905,6 +27930,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 365.76 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 365.76 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 365.76 71.755 0)
 			(effects
 				(font
@@ -25973,7 +28016,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 401.32 113.03 0)
 			(effects
 				(font
@@ -26001,6 +28044,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 401.32 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 401.32 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 401.32 113.03 0)
 			(effects
 				(font
@@ -26203,7 +28264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 381.635 71.755 0)
 			(effects
 				(font
@@ -26231,6 +28292,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 381.635 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 381.635 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 381.635 71.755 0)
 			(effects
 				(font
@@ -26365,7 +28444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 16.2K OHM 1% 1/8W 0805"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26383,7 +28462,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RMCF0805FT16K2"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26393,6 +28472,24 @@
 			)
 		)
 		(property "OrderNr" "RMCF0805FT16K2CT-ND"
+			(at 72.39 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 72.39 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 72.39 233.68 0)
 			(effects
 				(font
@@ -26526,7 +28623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 24.3K OHM 1% 1/8W 0805"
 			(at 125.73 106.045 0)
 			(effects
 				(font
@@ -26546,6 +28643,33 @@
 		)
 		(property "OrderNr" "311-24.3KCRCT-ND"
 			(at 125.73 106.045 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RC0805FR-0724K3L"
+			(at 125.73 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 125.73 106.045 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 125.73 106.045 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26746,7 +28870,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 144.78 0)
 			(effects
 				(font
@@ -26774,6 +28898,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 187.96 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 187.96 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 187.96 144.78 0)
 			(effects
 				(font
@@ -27042,7 +29184,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor, small symbol"
+		(property "Description" "CAP CER 22PF 50V C0G/NP0 0603"
+			(at 46.355 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 46.355 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "KGM15ACG1H220JT"
+			(at 46.355 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "478-KGM15ACG1H220JTCT-ND"
+			(at 46.355 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KYOCERA AVX"
+			(at 46.355 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0603"
 			(at 46.355 147.32 0)
 			(effects
 				(font
@@ -27111,7 +29298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 406.4 113.03 0)
 			(effects
 				(font
@@ -27139,6 +29326,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 406.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 406.4 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 406.4 113.03 0)
 			(effects
 				(font
@@ -27207,7 +29412,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 339.09 71.755 0)
 			(effects
 				(font
@@ -27235,6 +29440,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 339.09 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 339.09 71.755 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 339.09 71.755 0)
 			(effects
 				(font
@@ -27369,7 +29592,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 397.51 71.12 0)
 			(effects
 				(font
@@ -27397,6 +29620,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 397.51 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 397.51 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 397.51 71.12 0)
 			(effects
 				(font
@@ -27438,7 +29679,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 230.505 48.26 90)
 			(effects
 				(font
@@ -27465,7 +29706,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 227.33 44.45 0)
 			(effects
 				(font
@@ -27474,7 +29715,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 227.33 44.45 0)
 			(effects
 				(font
@@ -27483,7 +29724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "AC0805KRX7R9BB104"
 			(at 227.33 44.45 0)
 			(effects
 				(font
@@ -27492,7 +29733,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-3037-1-ND"
+			(at 227.33 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 227.33 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 227.33 44.45 0)
 			(effects
 				(font
@@ -27731,6 +29990,24 @@
 				(hide yes)
 			)
 		)
+		(property "Brand" "Würth Elektronik"
+			(at 436.88 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
+			(at 436.88 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "727e4fc4-3009-4941-a037-537be409c72a")
 		)
@@ -27788,7 +30065,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 359.41 113.03 0)
 			(effects
 				(font
@@ -27816,6 +30093,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 359.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 359.41 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 359.41 113.03 0)
 			(effects
 				(font
@@ -27924,7 +30219,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 231.775 191.77 90)
 			(effects
 				(font
@@ -27951,7 +30246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 228.6 187.96 0)
 			(effects
 				(font
@@ -27960,7 +30255,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 228.6 187.96 0)
 			(effects
 				(font
@@ -27969,7 +30264,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "AC0805KRX7R9BB104"
 			(at 228.6 187.96 0)
 			(effects
 				(font
@@ -27978,7 +30273,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-3037-1-ND"
+			(at 228.6 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 228.6 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 228.6 187.96 0)
 			(effects
 				(font
@@ -28048,7 +30361,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -28076,6 +30389,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 236.22 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 236.22 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -28142,7 +30473,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "FIXED IND 220NH 79A 0.17MOHM SMD"
 			(at 242.57 105.41 0)
 			(effects
 				(font
@@ -28170,6 +30501,24 @@
 			)
 		)
 		(property "OrderNr" "283-FP1008R5-R220-RCT-ND"
+			(at 242.57 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Eaton - Electronics Division"
+			(at 242.57 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 242.57 105.41 0)
 			(effects
 				(font
@@ -28371,7 +30720,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 22UF 25V X5R 1210"
 			(at 321.31 71.12 0)
 			(effects
 				(font
@@ -28399,6 +30748,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C226K3PAC7800CT-ND"
+			(at 321.31 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 321.31 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 321.31 71.12 0)
 			(effects
 				(font
@@ -28531,7 +30898,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 33.2K OHM 1% 1/8W 0805"
 			(at 39.37 119.38 0)
 			(effects
 				(font
@@ -28551,6 +30918,33 @@
 		)
 		(property "OrderNr" "RMCF0805FT33K2CT-ND"
 			(at 39.37 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT33K2"
+			(at 39.37 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 39.37 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 39.37 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28818,7 +31212,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 2200PF 50V C0G/NP0 0805"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -28827,7 +31221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -28836,7 +31230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21C222JBFNNNE"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -28845,7 +31239,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-2993-1-ND"
+			(at 27.94 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 27.94 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 27.94 119.38 0)
 			(effects
 				(font
@@ -29047,7 +31459,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, small symbol"
+		(property "Description" "RES 100 OHM 1% 1/8W 0805"
+			(at 40.64 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RC0805FR-07100RL"
+			(at 40.64 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 40.64 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 40.64 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 40.64 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 40.64 149.86 0)
 			(effects
 				(font
@@ -29201,6 +31658,24 @@
 				(hide yes)
 			)
 		)
+		(property "Brand" ""
+			(at 72.39 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
+			(at 72.39 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b548d89d-663f-42af-89aa-1164d89b1908")
 		)
@@ -29325,7 +31800,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 187.96 194.31 0)
 			(effects
 				(font
@@ -29353,6 +31828,24 @@
 			)
 		)
 		(property "OrderNr" "541-1.00TCT-ND"
+			(at 187.96 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 187.96 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 187.96 194.31 0)
 			(effects
 				(font
@@ -29420,7 +31913,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 0 OHM JUMPER 1/8W 0805"
+			(at 429.26 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 429.26 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805ZT0R00"
+			(at 429.26 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805ZT0R00CT-ND"
+			(at 429.26 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 429.26 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 429.26 132.08 0)
 			(effects
 				(font
@@ -29553,7 +32091,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
+			(at 129.54 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 129.54 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 129.54 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 129.54 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 129.54 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 129.54 123.19 0)
 			(effects
 				(font
@@ -29622,7 +32205,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 313.69 26.67 0)
 			(effects
 				(font
@@ -29631,7 +32214,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 313.69 26.67 0)
 			(effects
 				(font
@@ -29640,7 +32223,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 313.69 26.67 0)
 			(effects
 				(font
@@ -29649,7 +32232,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 313.69 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 313.69 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 313.69 26.67 0)
 			(effects
 				(font
@@ -29718,7 +32319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP ALUM POLY 220UF 20% 16V SMD"
 			(at 368.3 41.91 0)
 			(effects
 				(font
@@ -29746,6 +32347,24 @@
 			)
 		)
 		(property "OrderNr" "732-6489-1-ND"
+			(at 368.3 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Würth Elektronik"
+			(at 368.3 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "8x10"
 			(at 368.3 41.91 0)
 			(effects
 				(font
@@ -29946,7 +32565,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 84.5K OHM 1% 1/8W 0805"
 			(at 72.39 223.52 0)
 			(effects
 				(font
@@ -29955,7 +32574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 72.39 223.52 0)
 			(effects
 				(font
@@ -29964,7 +32583,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "RC0805FR-0784K5L"
 			(at 72.39 223.52 0)
 			(effects
 				(font
@@ -29973,7 +32592,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "311-84.5KCRCT-ND"
+			(at 72.39 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 72.39 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 72.39 223.52 0)
 			(effects
 				(font
@@ -30041,7 +32678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 213.36 144.78 0)
 			(effects
 				(font
@@ -30069,6 +32706,24 @@
 			)
 		)
 		(property "OrderNr" "296-43950-1-ND"
+			(at 213.36 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 213.36 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SON-5x6"
 			(at 213.36 144.78 0)
 			(effects
 				(font
@@ -30143,7 +32798,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "10µ"
+		(property "Value" "10µ/25V"
 			(at 285.75 60.96 0)
 			(effects
 				(font
@@ -30170,7 +32825,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 10UF 25V X5R 0805"
 			(at 284.48 57.15 0)
 			(effects
 				(font
@@ -30216,6 +32871,24 @@
 			)
 		)
 		(property "OrderNr" "445-5984-1-ND"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "TDK Corporation"
+			(at 284.48 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 284.48 57.15 0)
 			(effects
 				(font
@@ -30284,7 +32957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 369.57 113.03 0)
 			(effects
 				(font
@@ -30312,6 +32985,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 369.57 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 369.57 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 369.57 113.03 0)
 			(effects
 				(font
@@ -30380,7 +33071,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 3300PF 100V C0G/NP0 0805"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -30398,7 +33089,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "GRM2165C2A332JA01D"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -30408,6 +33099,24 @@
 			)
 		)
 		(property "OrderNr" "490-8291-1-ND"
+			(at 325.755 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 325.755 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 325.755 25.4 0)
 			(effects
 				(font
@@ -30438,7 +33147,7 @@
 		(exclude_from_sim yes)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ddb3f9d8-c101-4aa7-8f2f-c17793a77aa0")
 		(property "Reference" "HS1"
@@ -30505,6 +33214,24 @@
 			)
 		)
 		(property "OrderNr" "501100B00000G-ND"
+			(at 21.59 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 21.59 271.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 21.59 271.78 0)
 			(effects
 				(font
@@ -30767,7 +33494,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 2.55K OHM 1% 1/8W 0805"
 			(at 78.74 156.21 0)
 			(effects
 				(font
@@ -30787,6 +33514,33 @@
 		)
 		(property "OrderNr" "311-2.55KCRCT-ND"
 			(at 78.74 156.21 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RC0805FR-072K55L"
+			(at 78.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 78.74 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 78.74 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31062,7 +33816,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "DIODE SCHOTTKY 40V 3A SOD128"
 			(at 59.69 233.68 0)
 			(effects
 				(font
@@ -31090,6 +33844,24 @@
 			)
 		)
 		(property "OrderNr" "1727-5841-1-ND"
+			(at 59.69 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Nexperia USA Inc."
+			(at 59.69 233.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "D_SOD-128"
 			(at 59.69 233.68 0)
 			(effects
 				(font
@@ -31224,7 +33996,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 298.45 113.03 0)
 			(effects
 				(font
@@ -31252,6 +34024,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 298.45 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 298.45 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 298.45 113.03 0)
 			(effects
 				(font
@@ -31597,7 +34387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 334.01 25.4 0)
 			(effects
 				(font
@@ -31606,7 +34396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 334.01 25.4 0)
 			(effects
 				(font
@@ -31615,7 +34405,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 334.01 25.4 0)
 			(effects
 				(font
@@ -31624,7 +34414,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 334.01 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 334.01 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 334.01 25.4 0)
 			(effects
 				(font
@@ -31824,7 +34632,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 121K OHM 1% 1/8W 0805"
 			(at 62.23 92.71 0)
 			(effects
 				(font
@@ -31844,6 +34652,33 @@
 		)
 		(property "OrderNr" "RMCF0805FT121KCT-ND"
 			(at 62.23 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT121K"
+			(at 62.23 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 62.23 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 62.23 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31977,7 +34812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 100UF 10V X5R 1210"
 			(at 292.1 113.03 0)
 			(effects
 				(font
@@ -32005,6 +34840,24 @@
 			)
 		)
 		(property "OrderNr" "399-C1210C107M8PAC7800CT-ND"
+			(at 292.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "KEMET"
+			(at 292.1 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 292.1 113.03 0)
 			(effects
 				(font
@@ -32273,7 +35126,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1000PF 100V X7R 0805"
 			(at 236.22 212.09 0)
 			(effects
 				(font
@@ -32301,6 +35154,24 @@
 			)
 		)
 		(property "OrderNr" "311-1472-1-ND"
+			(at 236.22 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 236.22 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 236.22 212.09 0)
 			(effects
 				(font
@@ -32568,7 +35439,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC SYNC BUCK 60A 12VSON"
 			(at 212.09 50.8 0)
 			(effects
 				(font
@@ -32596,6 +35467,24 @@
 			)
 		)
 		(property "OrderNr" "296-43950-1-ND"
+			(at 212.09 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 212.09 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "SON-5x6"
 			(at 212.09 50.8 0)
 			(effects
 				(font
@@ -32695,7 +35584,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES 0 OHM JUMPER 1/8W 0805"
+			(at 431.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 431.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805ZT0R00"
+			(at 431.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805ZT0R00CT-ND"
+			(at 431.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 431.8 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 431.8 132.08 0)
 			(effects
 				(font
@@ -32831,7 +35765,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 325.12 113.03 0)
 			(effects
 				(font
@@ -32859,6 +35793,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 325.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 325.12 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 325.12 113.03 0)
 			(effects
 				(font
@@ -33060,7 +36012,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 1 OHM 1% 1/2W 0805"
 			(at 236.22 110.49 0)
 			(effects
 				(font
@@ -33096,6 +36048,24 @@
 				(hide yes)
 			)
 		)
+		(property "Brand" "Vishay Dale"
+			(at 236.22 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
+			(at 236.22 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abcba6b7-192f-4b0e-b5f2-3369a55e238e")
 		)
@@ -33118,7 +36088,7 @@
 		(exclude_from_sim yes)
 		(in_bom no)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "f79f3027-7dda-4305-8612-5a108c82905c")
 		(property "Reference" "JP1"
 			(at 88.9 216.154 0)
@@ -33164,7 +36134,25 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "-"
+		(property "Distributor" ""
+			(at 88.9 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 88.9 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 88.9 218.44 0)
 			(effects
 				(font
@@ -33233,7 +36221,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 344.17 113.03 0)
 			(effects
 				(font
@@ -33261,6 +36249,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 344.17 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 344.17 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 344.17 113.03 0)
 			(effects
 				(font
@@ -33327,7 +36333,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor"
+		(property "Description" "RES SMD 2.2 OHM 1% 1/2W 0805"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -33355,6 +36361,24 @@
 			)
 		)
 		(property "OrderNr" "541-10524-1-ND"
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Vishay Dale"
+			(at 116.84 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 116.84 148.59 0)
 			(effects
 				(font
@@ -33490,7 +36514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 330UF 4V X5R 1210"
 			(at 330.2 113.03 0)
 			(effects
 				(font
@@ -33518,6 +36542,24 @@
 			)
 		)
 		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
+			(at 330.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Murata Electronics"
+			(at 330.2 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "1210"
 			(at 330.2 113.03 0)
 			(effects
 				(font
@@ -33559,7 +36601,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 95.25 161.29 90)
 			(effects
 				(font
@@ -33586,7 +36628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 25V X7R 0805"
 			(at 96.52 165.1 0)
 			(effects
 				(font
@@ -33595,7 +36637,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" ""
+		(property "Distributor" "D"
 			(at 96.52 165.1 0)
 			(effects
 				(font
@@ -33604,7 +36646,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" ""
+		(property "Manufacturer" "CL21B105KAFNNNE"
 			(at 96.52 165.1 0)
 			(effects
 				(font
@@ -33613,7 +36655,25 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" ""
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 96.52 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Samsung Electro-Mechanics"
+			(at 96.52 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 96.52 165.1 0)
 			(effects
 				(font

@@ -3522,7 +3522,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "IC TRANSLATOR UNIDIR 14TSSOP"
 			(at 157.48 34.29 0)
 			(effects
 				(font
@@ -3550,6 +3550,24 @@
 			)
 		)
 		(property "OrderNr" "296-TXU0304PWRCT-ND"
+			(at 147.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Texas Instruments"
+			(at 147.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 147.32 36.83 0)
 			(effects
 				(font
@@ -3820,7 +3838,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 116.84 39.37 0)
 			(effects
 				(font
@@ -3847,7 +3865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -3866,6 +3884,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 115.57 35.56 0)
 			(effects
 				(font
@@ -3907,7 +3970,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 29.21 97.155 90)
 			(effects
 				(font
@@ -3934,7 +3997,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 30.48 90.17 0)
 			(effects
 				(font
@@ -3953,6 +4016,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 30.48 90.17 0)
 			(effects
 				(font
@@ -4697,7 +4805,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "XTAL OSC XO 25.0000MHZ CMOS SMD"
 			(at 49.53 85.09 0)
 			(effects
 				(font
@@ -4716,6 +4824,33 @@
 			)
 		)
 		(property "Distributor" "D"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "LFSPXO076024"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "IQD Frequency Products"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 49.53 85.09 0)
 			(effects
 				(font
@@ -4864,7 +4999,52 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "Stackpole Electronics Inc"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 71.12 106.68 0)
 			(effects
 				(font
@@ -4906,7 +5086,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 111.125 39.37 0)
 			(effects
 				(font
@@ -4933,7 +5113,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 50V X7R 0805"
 			(at 109.22 35.56 0)
 			(effects
 				(font
@@ -4952,6 +5132,51 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" "YAGEO"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" "0805"
 			(at 109.22 35.56 0)
 			(effects
 				(font
@@ -5098,6 +5323,24 @@
 			)
 		)
 		(property "Distributor" "-"
+			(at 35.56 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Brand" ""
+			(at 35.56 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Size" ""
 			(at 35.56 127 0)
 			(effects
 				(font
