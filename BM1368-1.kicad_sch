@@ -3707,7 +3707,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 121.92 37.465 90)
 			(effects
 				(font
@@ -3753,6 +3753,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 123.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 123.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 123.19 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 123.19 36.83 0)
 			(effects
 				(font
@@ -3861,7 +3888,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 123.19 146.05 0)
 			(effects
 				(font
@@ -3907,6 +3934,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 121.92 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 121.92 142.24 0)
 			(effects
 				(font
@@ -4078,7 +4132,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 163.83 37.465 90)
 			(effects
 				(font
@@ -4132,6 +4186,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 165.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 165.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 165.1 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "81d92ce4-de13-4fa7-b45f-21811684184c")
 		)
@@ -4165,7 +4246,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 262.89 37.465 90)
 			(effects
 				(font
@@ -4211,6 +4292,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 264.16 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 264.16 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 264.16 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 264.16 36.83 0)
 			(effects
 				(font
@@ -4420,6 +4528,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "BM1370 BITMAIN"
+			(at 97.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "-"
+			(at 97.79 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "10"
 			(uuid "03f61339-a06a-4cd4-bbef-2d09d546abf8")
 		)
@@ -4543,7 +4669,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 67.31 146.05 0)
 			(effects
 				(font
@@ -4589,6 +4715,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 66.04 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 66.04 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 66.04 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 66.04 142.24 0)
 			(effects
 				(font
@@ -4770,7 +4923,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 90.17 145.415 0)
 			(effects
 				(font
@@ -4816,6 +4969,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 88.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 88.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 88.9 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 88.9 142.24 0)
 			(effects
 				(font
@@ -4991,7 +5171,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 107.95 37.465 90)
 			(effects
 				(font
@@ -5037,6 +5217,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 109.22 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 109.22 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 109.22 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 109.22 36.83 0)
 			(effects
 				(font
@@ -5244,6 +5451,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 260.35 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "199b6e3c-a27a-4d85-a565-149c4479bf62")
 		)
@@ -5411,7 +5645,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 238.76 37.465 90)
 			(effects
 				(font
@@ -5457,6 +5691,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 240.03 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 240.03 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 240.03 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 240.03 36.83 0)
 			(effects
 				(font
@@ -5772,7 +6033,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 74.295 146.05 0)
 			(effects
 				(font
@@ -5818,6 +6079,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 73.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 73.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 73.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 73.66 142.24 0)
 			(effects
 				(font
@@ -6060,7 +6348,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 175.26 37.465 90)
 			(effects
 				(font
@@ -6106,6 +6394,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 176.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 176.53 36.83 0)
 			(effects
 				(font
@@ -6281,7 +6596,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 134.62 37.465 90)
 			(effects
 				(font
@@ -6327,6 +6642,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 135.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 135.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 135.89 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 135.89 36.83 0)
 			(effects
 				(font
@@ -6395,6 +6737,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CRG0805F2K0"
+			(at 52.07 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "A126358CT-ND"
 			(at 52.07 72.39 0)
 			(effects
 				(font
@@ -6503,7 +6872,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 187.96 37.465 90)
 			(effects
 				(font
@@ -6549,6 +6918,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 189.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 189.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 189.23 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 189.23 36.83 0)
 			(effects
 				(font
@@ -6657,7 +7053,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 43.815 143.51 90)
 			(effects
 				(font
@@ -6711,6 +7107,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 43.18 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 43.18 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 43.18 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8145c302-972e-4be3-bf01-3888226ec324")
 		)
@@ -6744,7 +7167,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 48.26 37.465 90)
 			(effects
 				(font
@@ -6790,6 +7213,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 49.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 49.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 49.53 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 49.53 36.83 0)
 			(effects
 				(font
@@ -7225,7 +7675,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 199.898 37.211 90)
 			(effects
 				(font
@@ -7279,6 +7729,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 201.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 201.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 201.93 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f258fdc-2c2b-4f75-81c2-113bdbe241a4")
 		)
@@ -7312,7 +7789,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 59.69 37.465 90)
 			(effects
 				(font
@@ -7366,6 +7843,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 60.96 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "bc91a872-8b7a-4271-9da7-39d5d48b687b")
 		)
@@ -7399,7 +7903,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 146.05 37.465 90)
 			(effects
 				(font
@@ -7445,6 +7949,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 147.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 147.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 147.32 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 147.32 36.83 0)
 			(effects
 				(font
@@ -7730,6 +8261,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 64.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RNCP0805FTD1K00"
+			(at 64.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RNCP0805FTD1K00CT-ND"
+			(at 64.77 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da090568-310c-4119-bad2-63e8df922434")
 		)
@@ -7838,7 +8396,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 32.385 143.51 90)
 			(effects
 				(font
@@ -7892,6 +8450,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 31.75 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 31.75 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
+			(at 31.75 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e917909e-2f44-4697-afab-6fe1318b10cf")
 		)
@@ -7925,7 +8510,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 38.735 143.51 90)
 			(effects
 				(font
@@ -7971,6 +8556,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 38.1 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 38.1 142.24 0)
 			(effects
 				(font
@@ -8146,7 +8758,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 147.32 146.05 0)
 			(effects
 				(font
@@ -8200,6 +8812,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 146.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 146.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 146.05 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f9b17fd0-1ef6-4910-a250-1b781919050c")
 		)
@@ -8233,7 +8872,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 50.165 143.51 90)
 			(effects
 				(font
@@ -8279,6 +8918,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 49.53 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 49.53 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 49.53 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 49.53 142.24 0)
 			(effects
 				(font
@@ -8554,6 +9220,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RNCP0805FTD1K00"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RNCP0805FTD1K00CT-ND"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "484ac278-0687-4f33-8ff9-c407a768412a")
 		)
@@ -8587,7 +9280,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 83.82 37.465 90)
 			(effects
 				(font
@@ -8633,6 +9326,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 88.9 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 88.9 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 88.9 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 88.9 36.83 0)
 			(effects
 				(font
@@ -8775,6 +9495,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 134.62 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 134.62 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 134.62 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c55c7462-d8be-4e02-9a30-11ca323b6778")
 		)
@@ -8875,7 +9622,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 129.54 146.05 0)
 			(effects
 				(font
@@ -8921,6 +9668,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 128.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 128.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 128.27 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 128.27 142.24 0)
 			(effects
 				(font
@@ -9029,7 +9803,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 224.79 37.465 90)
 			(effects
 				(font
@@ -9075,6 +9849,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 226.06 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 226.06 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 226.06 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 226.06 36.83 0)
 			(effects
 				(font
@@ -9212,7 +10013,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 251.46 37.465 90)
 			(effects
 				(font
@@ -9258,6 +10059,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 252.73 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 252.73 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 252.73 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 252.73 36.83 0)
 			(effects
 				(font
@@ -9962,7 +10790,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 140.97 146.05 0)
 			(effects
 				(font
@@ -10008,6 +10836,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 139.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 139.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 139.7 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
 			(at 139.7 142.24 0)
 			(effects
 				(font
@@ -10116,7 +10971,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 71.12 37.465 90)
 			(effects
 				(font
@@ -10162,6 +11017,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 72.39 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 72.39 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 72.39 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 72.39 36.83 0)
 			(effects
 				(font
@@ -10337,7 +11219,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1µ/25V"
 			(at 82.55 145.415 0)
 			(effects
 				(font
@@ -10383,6 +11265,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 81.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 81.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CL21B105KAFNNNE"
+			(at 81.28 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "1276-1066-1-ND"
 			(at 81.28 142.24 0)
 			(effects
 				(font
@@ -10452,6 +11361,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 214.63 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "BM1370 BITMAIN"
+			(at 214.63 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "-"
 			(at 214.63 63.5 0)
 			(effects
 				(font
@@ -10610,6 +11537,33 @@
 			)
 		)
 		(property "Description" ""
+			(at 139.7 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 139.7 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "CRG0805F2K0"
+			(at 139.7 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "A126358CT-ND"
 			(at 139.7 72.39 0)
 			(effects
 				(font

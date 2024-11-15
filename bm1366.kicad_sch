@@ -3820,7 +3820,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 116.84 39.37 0)
 			(effects
 				(font
@@ -3874,6 +3874,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
+			(at 115.57 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "644a67db-a689-4c41-98d0-12f3e31d023b")
 		)
@@ -3907,7 +3934,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 29.21 97.155 90)
 			(effects
 				(font
@@ -3953,6 +3980,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 30.48 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
 			(at 30.48 90.17 0)
 			(effects
 				(font
@@ -4724,6 +4778,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "1923-LFSPXO076024CT-ND"
+			(at 49.53 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02c21f33-3ee1-491d-9d05-e2333705fc11")
 		)
@@ -4873,6 +4936,33 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 71.12 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9603e0f3-66bf-405e-bb65-f79a72a63b28")
 		)
@@ -4906,7 +4996,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "100n/0.7mm"
 			(at 111.125 39.37 0)
 			(effects
 				(font
@@ -4952,6 +5042,33 @@
 			)
 		)
 		(property "PARTNO" ""
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "AC0805KRX7R9BB104"
+			(at 109.22 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "311-3037-1-ND"
 			(at 109.22 35.56 0)
 			(effects
 				(font
