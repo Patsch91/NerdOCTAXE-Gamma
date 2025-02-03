@@ -2,7 +2,7 @@
 
 The NerdOCTAXEγ is a 8-Asic version of the [NerdQAxe++](https://github.com/shufps/qaxe) with [Nerdminer](https://github.com/BitMaker-hub/NerdMiner_v2) / [Nerdaxe](https://github.com/BitMaker-hub/NerdAxeUltra) Display and is running the [BitAxe](https://github.com/skot/bitaxe) Firmware as its Core.
 
-It runs standalone and uses 8 ASICs of type BM1370 to achieve a Hashrate of ~9-10Th/s at ~180Watts 
+It runs standalone and uses 8 ASICs of type BM1370 to achieve a Hashrate of ~9,5-10,5Th/s at about 160Watt + PSU (measured about 175Watts on wall with meanwell PSU)
 
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/feat_bm1370/GammaFront.jpg" width="700px">
@@ -16,7 +16,6 @@ Highlights:
   - Influx DB support
   - Better charting (10m, 1h, 1d), data doesn't get lost on Web UI reloads 
   - ASIC clock and voltage adjustable without reboot
-  - Stratum client stability improvements (TCP timeouts)
 
 The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus) (Releases for NerdOCTAXE-Gamma)
 
@@ -30,9 +29,9 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **BOM:** You can directly upload the .csv in this repo to Digikey (watch out - this is still a bit of WIP - you could delete the heatsink for example, which is actually in the BOM, but I am currently testing other ones which I will add later on). You will have to order the Lilygo T-Display S3 seperately.
 
-**HEATSINKS:** Cooling is always a bit WIP. For the Asics I used the Heatsinks of "Fujitsu Primergy RX2540 M1 M2" 
+**HEATSINKS:** Cooling is always a bit WIP. For the Asics I used the Heatsinks for "Fujitsu Primergy RX2540 M1 M2" 
 
-**FANS:**  2x Arctic S8038-7K (Monsters :P).  I am currently running this miner with Fan-PWM set to 55%. This is enough to keep the buck at about 60°C and asics ~60-70°C (Heatsink Temp displayed on the UI about 40°C) . (!!Note: These Fans have a relatively high "starting current" - so make sure you dont change the fan-pwm upwards in steps too big... for example the miner running hot with Fan-PWM at ~10% (pulling more amps as the Asics getting hot) turning the Fan-PWM up to 90% in one step *could* lead to triggering the Fuse as the fans are pulling heavy to "accelerate")
+**FANS:**  2x Arctic S8038-7K (Monsters :P).  I am currently running this miner with Fan-PWM set to 55%. This is enough to keep the buck at about 60°C and heatsinktemp at about 40°C.
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/feat_bm1370/GammaOpen.jpg" width="800px">
 
