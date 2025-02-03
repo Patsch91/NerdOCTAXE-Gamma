@@ -10,237 +10,50 @@
 		(rev "202")
 	)
 	(lib_symbols
-		(symbol "Connector_Generic:Conn_01x04"
+		(symbol "CONN02:OSTYK51102030"
 			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J"
-				(at 0 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x04"
-				(at 0 -7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "Conn_01x04_1_1"
-				(rectangle
-					(start -1.27 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 2.667)
-					(end 0 2.413)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 3.81)
-					(end 1.27 -6.35)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at -5.08 2.54 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -5.08 0)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "Device:Fuse"
-			(pin_numbers hide)
-			(pin_names
-				(offset 0)
+				(offset 0.254)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "F"
-				(at 2.032 0 90)
+			(property "Reference" "J1"
+				(at 8.89 -10.414 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Value" "Fuse"
-				(at -1.905 0 90)
+			(property "Value" "OSTYK51102030"
+				(at 8.89 -7.874 0)
 				(effects
 					(font
-						(size 1.27 1.27)
+						(size 1.524 1.524)
 					)
 				)
 			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
+			(property "Footprint" "CONN2_1102030_OST"
+				(at 8.636 5.08 0)
 				(effects
 					(font
 						(size 1.27 1.27)
+						(italic yes)
 					)
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "~"
+			(property "Datasheet" "OSTYK51102030"
+				(at 9.652 7.366 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+						(italic yes)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
 				(at 0 0 0)
 				(effects
 					(font
@@ -249,7 +62,15 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "Fuse"
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "OSTYK51102030"
 				(at 0 0 0)
 				(effects
 					(font
@@ -258,7 +79,7 @@
 					(hide yes)
 				)
 			)
-			(property "ki_keywords" "fuse"
+			(property "ki_fp_filters" "CONN2_1102030_OST"
 				(at 0 0 0)
 				(effects
 					(font
@@ -267,21 +88,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_fp_filters" "*Fuse*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "OSTYK51102030_0_1"
+				(polyline
+					(pts
+						(xy 5.08 -5.08) (xy 12.7 -5.08)
 					)
-					(hide yes)
-				)
-			)
-			(symbol "Fuse_0_1"
-				(rectangle
-					(start -0.762 -2.54)
-					(end 0.762 2.54)
 					(stroke
-						(width 0.254)
+						(width 0.127)
 						(type default)
 					)
 					(fill
@@ -290,22 +103,44 @@
 				)
 				(polyline
 					(pts
-						(xy 0 2.54) (xy 0 -2.54)
+						(xy 5.08 2.54) (xy 5.08 -5.08)
 					)
 					(stroke
-						(width 0)
+						(width 0.127)
 						(type default)
 					)
 					(fill
 						(type none)
 					)
 				)
-			)
-			(symbol "Fuse_1_1"
-				(pin passive line
-					(at 0 3.81 270)
-					(length 1.27)
-					(name "~"
+				(polyline
+					(pts
+						(xy 12.7 -5.08) (xy 12.7 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 12.7 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.127)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at 0 0 0)
+					(length 5.08)
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -320,10 +155,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 -3.81 90)
-					(length 1.27)
-					(name "~"
+				(pin unspecified line
+					(at 0 -2.54 0)
+					(length 5.08)
+					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -473,6 +308,196 @@
 				)
 			)
 		)
+		(symbol "Fuseholder Blade 3568:3568"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "F"
+				(at -2.54 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "3568"
+				(at -2.54 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "3568:FUSE_3568"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "C"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "Keystone"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SNAPEDA_PN" "3568"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "7.37 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "3568_0_0"
+				(arc
+					(start 0 0)
+					(mid -1.905 1.8967)
+					(end -3.81 0)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -5.08 0) (xy -3.81 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 5.08 0) (xy 3.81 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0 0)
+					(mid 1.905 -1.8967)
+					(end 3.81 0)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 0 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_names
@@ -571,44 +596,22 @@
 		)
 	)
 	(junction
+		(at 55.245 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5d7dec77-2a22-45b0-a5d0-66aadf1b02e9")
+	)
+	(junction
 		(at 114.3 57.785)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5233783-4342-4ecf-8be1-54b903a1f39a")
 	)
 	(junction
-		(at 43.18 44.45)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cfd908bf-51a0-4e99-8f34-45cd7ec71dd6")
-	)
-	(junction
-		(at 55.245 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4abd169-31b8-4876-9b55-a395ccee7425")
-	)
-	(junction
 		(at 77.47 52.07)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e410ebcf-abd0-4643-97f0-c708d4f136ab")
-	)
-	(junction
-		(at 43.18 52.07)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e5e89e41-ece4-4c9d-8982-cd5fd3cc532d")
-	)
-	(wire
-		(pts
-			(xy 43.18 35.56) (xy 43.18 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "036a9d2e-0187-4b0e-a8cd-1e7ef9989dd6")
 	)
 	(wire
 		(pts
@@ -672,16 +675,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.975 52.07) (xy 55.245 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e418b08-1964-40d7-b4ed-9bf850aeb0b0")
-	)
-	(wire
-		(pts
 			(xy 73.025 101.6) (xy 82.55 101.6)
 		)
 		(stroke
@@ -722,36 +715,6 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 49.53) (xy 43.18 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3498200c-cfe0-427b-af32-84c9e19c7018")
-	)
-	(wire
-		(pts
-			(xy 33.02 46.99) (xy 43.18 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34f4220f-2ff8-4135-8487-397150a6c02d")
-	)
-	(wire
-		(pts
-			(xy 43.18 52.07) (xy 46.355 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3e2359fc-2f72-4a97-bbc0-eb785a6e076b")
-	)
-	(wire
-		(pts
 			(xy 129.54 64.135) (xy 129.54 90.805)
 		)
 		(stroke
@@ -779,6 +742,26 @@
 			(type default)
 		)
 		(uuid "43d05d6a-5e96-45af-8a44-e52e6d1c1a95")
+	)
+	(wire
+		(pts
+			(xy 55.245 52.07) (xy 77.47 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4453894d-60ec-4423-b102-ab97699484cc")
+	)
+	(wire
+		(pts
+			(xy 33.782 52.07) (xy 38.862 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "465fdb33-4eab-46b9-8d0b-1e6a3c3b517b")
 	)
 	(wire
 		(pts
@@ -849,16 +832,6 @@
 			(type default)
 		)
 		(uuid "6e22566e-eb9b-469e-b054-15576732e67b")
-	)
-	(wire
-		(pts
-			(xy 49.53 35.56) (xy 43.18 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6e570f84-5395-4402-aa19-62166dfce7c0")
 	)
 	(wire
 		(pts
@@ -992,13 +965,13 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 44.45) (xy 43.18 44.45)
+			(xy 33.782 54.61) (xy 36.83 54.61)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "963228d6-0c35-4a2f-95a6-6b0ae7d0a93d")
+		(uuid "98701975-08b8-4ad7-8612-8dfd103afa07")
 	)
 	(wire
 		(pts
@@ -1082,6 +1055,16 @@
 	)
 	(wire
 		(pts
+			(xy 36.83 54.61) (xy 36.83 71.628)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5292882-8145-4e03-9e65-5f42dd868b08")
+	)
+	(wire
+		(pts
 			(xy 75.565 84.455) (xy 75.565 97.79)
 		)
 		(stroke
@@ -1119,36 +1102,6 @@
 			(type default)
 		)
 		(uuid "dbdc90cd-86c0-4c00-b5ba-542abcb9a53e")
-	)
-	(wire
-		(pts
-			(xy 33.02 52.07) (xy 43.18 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "df5d3777-4bb4-4acc-af21-0c825dc24d48")
-	)
-	(wire
-		(pts
-			(xy 43.18 49.53) (xy 43.18 52.07)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dff0a995-0dcd-4048-8462-58bdda5bb249")
-	)
-	(wire
-		(pts
-			(xy 43.18 44.45) (xy 43.18 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e07c4c44-15ae-48ab-9f53-795546dc8491")
 	)
 	(wire
 		(pts
@@ -1202,13 +1155,13 @@
 	)
 	(wire
 		(pts
-			(xy 55.245 52.07) (xy 77.47 52.07)
+			(xy 54.102 52.07) (xy 55.245 52.07)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f96f61ad-e5c9-4476-a51d-dbf52372e77b")
+		(uuid "f8f4c3b1-37a5-46b1-8af4-c5963b66c94a")
 	)
 	(wire
 		(pts
@@ -1286,107 +1239,6 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x04")
-		(at 27.94 46.99 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6ab48a75-8d2e-48ee-9d34-2bd7545ed079")
-		(property "Reference" "J1"
-			(at 27.94 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04"
-			(at 26.67 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "footprints:Barrier Terminal 01x04"
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CONN BARRIER STRIP 4CIRC 0.374\""
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "D"
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "YK5110403000G"
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OrderNr" "YK5110403000G-ND"
-			(at 27.94 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "37a1f227-cc28-4e2b-b627-9bfe846a8269")
-		)
-		(pin "4"
-			(uuid "1055cf95-9694-4eb1-b7b4-0c98df2349b3")
-		)
-		(pin "1"
-			(uuid "14ba903d-3a61-4067-9f28-f51b1b9429ff")
-		)
-		(pin "2"
-			(uuid "e767c788-5a55-4b24-a45c-af1dfd20c5da")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -1496,15 +1348,16 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 49.53 35.56 0)
+		(at 36.83 71.628 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b2e66b1d-53d4-4fb5-85be-f7217978825c")
-		(property "Reference" "#PWR01"
-			(at 49.53 41.91 0)
+		(fields_autoplaced yes)
+		(uuid "9470a9fe-60d8-40f8-93c0-446422f1f304")
+		(property "Reference" "#PWR0375"
+			(at 36.83 77.978 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1513,7 +1366,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 49.657 39.9542 0)
+			(at 36.83 76.962 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1521,7 +1374,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 49.53 35.56 0)
+			(at 36.83 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1530,7 +1383,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 49.53 35.56 0)
+			(at 36.83 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1538,8 +1391,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 49.53 35.56 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 36.83 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1548,68 +1401,65 @@
 			)
 		)
 		(pin "1"
-			(uuid "f59578d0-1a29-4d65-b645-e92ee63ea884")
+			(uuid "35a23034-823f-4f04-b5ea-9440b3cf069d")
 		)
 		(instances
-			(project "pferdibank"
-				(path "/664662ce-7428-4243-a287-5a291ff0d522"
-					(reference "#PWR01")
-					(unit 1)
-				)
-			)
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
-					(reference "#PWR03")
+					(reference "#PWR0375")
 					(unit 1)
 				)
 			)
 		)
 	)
 	(symbol
-		(lib_id "Device:Fuse")
-		(at 50.165 52.07 270)
+		(lib_id "CONN02:OSTYK51102030")
+		(at 33.782 54.61 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fa5bf12f-e3bc-4c4f-a0c6-7ef37fa6dcdf")
-		(property "Reference" "F1"
-			(at 50.165 47.0662 90)
+		(fields_autoplaced yes)
+		(uuid "af0463dc-7759-42ee-a59e-4b1577b7eeef")
+		(property "Reference" "J10"
+			(at 24.892 44.196 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Value" "20A"
-			(at 50.165 49.3776 90)
+		(property "Value" "Connector 02x01"
+			(at 24.892 46.736 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:fuseholder_littlefuse_blok"
-			(at 50.165 50.292 90)
+		(property "Footprint" "myfootprints:CONN2_1102030_OST"
+			(at 25.146 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 50.165 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
+					(italic yes)
 				)
 				(hide yes)
 			)
 		)
-		(property "Description" "FUSE BRD MNT 20A 65VAC 65VDC SMD"
-			(at 50.165 52.07 0)
+		(property "Datasheet" "https://www.on-shore.com/wp-content/uploads/OSTYK511XX030.pdf"
+			(at 24.13 61.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 33.782 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1618,7 +1468,7 @@
 			)
 		)
 		(property "Distributor" "D"
-			(at 50.165 52.07 0)
+			(at 33.782 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1626,17 +1476,8 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "0451020.MRL"
-			(at 50.165 52.07 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OrderNr" "F8251CT-ND"
-			(at 50.165 52.07 0)
+		(property "OrderNr" "ED2953-ND"
+			(at 33.782 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1645,18 +1486,109 @@
 			)
 		)
 		(pin "1"
-			(uuid "587e6054-0bf2-4a1f-9fc1-f2dffe0fe57b")
+			(uuid "ce339a98-3bf2-4e69-93c0-2a5340ad61c6")
 		)
 		(pin "2"
-			(uuid "55187854-9077-4a8e-8b97-d942025cfdc8")
+			(uuid "f093e456-9a84-43c3-8476-7b533caa0391")
 		)
 		(instances
-			(project "pferdibank"
-				(path "/664662ce-7428-4243-a287-5a291ff0d522"
-					(reference "F1")
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
+					(reference "J10")
 					(unit 1)
 				)
 			)
+		)
+	)
+	(symbol
+		(lib_id "Fuseholder Blade 3568:3568")
+		(at 46.482 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c763f547-f1af-477c-849e-922f2df0f067")
+		(property "Reference" "F1"
+			(at 46.482 45.466 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "3568"
+			(at 46.482 48.006 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "8Axe:Fuseholder Blade_3568"
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuseholder Mini Blade"
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "3568"
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "36-3568-ND"
+			(at 46.482 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c8142356-200c-4235-8800-1bf99de402a2")
+		)
+		(pin "2"
+			(uuid "4391fc6c-d77d-48f6-9802-fb6ae7912a8b")
+		)
+		(instances
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55"
 					(reference "F1")

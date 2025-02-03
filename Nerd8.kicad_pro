@@ -64,7 +64,7 @@
         "version": 2
       },
       "rule_severities": {
-        "annular_width": "error",
+        "annular_width": "ignore",
         "clearance": "warning",
         "connection_width": "warning",
         "copper_edge_clearance": "warning",
@@ -80,6 +80,7 @@
         "footprint_type_mismatch": "warning",
         "hole_clearance": "warning",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -230,8 +231,20 @@
           "drill": 0.3
         },
         {
+          "diameter": 0.6,
+          "drill": 0.4
+        },
+        {
           "diameter": 0.8,
           "drill": 0.4
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.5
+        },
+        {
+          "diameter": 0.8,
+          "drill": 0.6
         },
         {
           "diameter": 1.0,
@@ -612,6 +625,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
