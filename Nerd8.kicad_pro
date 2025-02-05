@@ -227,6 +227,10 @@
           "drill": 0.0
         },
         {
+          "diameter": 0.4,
+          "drill": 0.3
+        },
+        {
           "diameter": 0.6,
           "drill": 0.3
         },
@@ -830,24 +834,40 @@
       "BM1370"
     ],
     [
-      "28204049-6946-49e4-955c-4210ae323a25",
-      "BM1370"
+      "6bdafae7-bda6-4cdd-a7e9-3f66f4811439",
+      "Asic0"
     ],
     [
-      "65deb7aa-d17b-462a-abf5-da4343664945",
-      "BM1370-1"
+      "a2aed7fc-ffe5-4649-a88c-133174c172ee",
+      "Asic1"
     ],
     [
-      "e80b0a8e-8746-4c15-aedd-74be2900e512",
-      "BM1370-2"
+      "ec5e3d3d-ff17-4e5e-8a85-4d1db9b5c0a3",
+      "Asic2"
     ],
     [
-      "e37fcc16-ab00-4951-a90e-5cb0d9945874",
-      "BM1370-3"
+      "2b64430a-1ad6-4af3-a096-414afef2d578",
+      "Asic3"
     ],
     [
       "9bc1a7d6-07fa-4858-9423-fb2dbf7da294",
       "T-Display-S3"
+    ],
+    [
+      "3951c08a-f17a-484c-9ad6-64ac3f03e8e7",
+      "Asic4"
+    ],
+    [
+      "4e362658-d196-44c9-b2ee-93d5d66261d7",
+      "Asic5"
+    ],
+    [
+      "202aa240-acef-46ed-bd23-e021820cf96c",
+      "Asic6"
+    ],
+    [
+      "437baeb1-4767-4def-969f-4b8ce9ea00ae",
+      "Asic7"
     ]
   ],
   "text_variables": {}
