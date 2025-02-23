@@ -47,6 +47,7 @@ Current developments:
 ====
 10/14/24: Changed the 4-Layer PCB to 6-Layer to conquer the heavy load on the rather small 1V2-Zone and added a whole 1V2 Layer + GND Layer. This should reduce the PCB-Temperatures, the Buck Temperature as it is located near the "hot" area and the voltage drop between the buck and the Asic Input. This design should be a little more energy efficient - I guess just some %´s, but should be noticable. 
 
+02/23/25: Small changes on the DC/DC layout. New 1V2-Layer design. Some tinkering on additional vias. Everything in the Rev2.0 Branch (untested yet)
 
 
 Misc
