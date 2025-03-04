@@ -46,7 +46,9 @@ Current developments:
 ====
 10/14/24: Changed the 4-Layer PCB to 6-Layer to conquer the heavy load on the rather small 1V2-Zone and added a whole 1V2 Layer + GND Layer. This should reduce the PCB-Temperatures, the Buck Temperature as it is located near the "hot" area and the voltage drop between the buck and the Asic Input. This design should be a little more energy efficient - I guess just some %´s, but should be noticable. 
 
-02/03/24: Current tested and working design is located in the "LED"-Branch. Refined design "Rev 2.0"-Branch is WIP and not tested yet. Will update as soon as I made the build!
+02/03/25: Current tested and working design is located in the "LED"-Branch. Refined design "Rev 2.0"-Branch is WIP and not tested yet. Will update as soon as I made the build!
+
+03/04/25: First test of a open-PCB version of the NerdOCTAXE  was succesful. Take a look into the LGA_Design-Branch :)
 
 
 Misc
