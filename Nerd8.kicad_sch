@@ -1457,7 +1457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.on-shore.com/wp-content/uploads/OSTYK511XX030.pdf"
+		(property "Datasheet" ""
 			(at 24.13 61.976 0)
 			(effects
 				(font
