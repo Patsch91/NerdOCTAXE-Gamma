@@ -59,7 +59,20 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "silk_edge_clearance|49060000|30010000|3ed21d0e-0885-4cd4-b97c-0018823287a9|79846acc-915f-4cd5-b026-ad6aa897847e",
+          ""
+        ],
+        [
+          "silk_edge_clearance|49060000|30010000|3ed21d0e-0885-4cd4-b97c-0018823287a9|cf20361c-0a29-422d-9eb8-73f636c88ebd",
+          ""
+        ],
+        [
+          "silk_edge_clearance|64780000|30010000|3ed21d0e-0885-4cd4-b97c-0018823287a9|6ca0d48e-57fe-402e-9bd1-2b3f3ec45446",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -126,7 +139,7 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
+        "min_clearance": 0.15,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.25,
         "min_groove_width": 0.0,
@@ -138,7 +151,7 @@
         "min_silk_clearance": 0.0,
         "min_text_height": 0.75,
         "min_text_thickness": 0.08,
-        "min_through_hole_diameter": 0.3,
+        "min_through_hole_diameter": 0.35,
         "min_track_width": 0.15,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.4,
@@ -551,7 +564,7 @@
       "plot": "../gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../case/qaxe.step",
+      "step": "../../../Desktop/Bitaxe/OctaxeCase/DoubleQ/DQ.step",
       "svg": "",
       "vrml": ""
     },
