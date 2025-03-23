@@ -7062,7 +7062,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:TMP1075-DRL"
+		(property "Footprint" "Nerd8:TMP1075-DRL"
 			(at 221.615 83.185 0)
 			(effects
 				(font

@@ -5792,12 +5792,6 @@
 		(uuid "0660b318-0b4a-4ec0-8073-81dbf630a6b3")
 	)
 	(junction
-		(at 406.4 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "06d32265-51c6-46e2-bc31-38b64d6733f2")
-	)
-	(junction
 		(at 236.22 148.59)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5946,12 +5940,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3f65f984-d427-4628-ba01-6d68c51afb22")
-	)
-	(junction
-		(at 414.02 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "43752951-f626-4fab-b0b7-2cf9f31d70bd")
 	)
 	(junction
 		(at 339.09 105.41)
@@ -6164,12 +6152,6 @@
 		(uuid "9a85852e-b871-4b6a-ae93-b2334c1a0326")
 	)
 	(junction
-		(at 406.4 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9b43c66d-1962-4e48-b73c-8f4520900e6b")
-	)
-	(junction
 		(at 83.82 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -6204,12 +6186,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b153c622-3ba3-4c1d-af00-b6f5fb972098")
-	)
-	(junction
-		(at 414.02 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b17d5e59-24ed-4077-8da5-ebb4dd5212fa")
 	)
 	(junction
 		(at 325.12 120.65)
@@ -7363,16 +7339,6 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 120.65) (xy 431.8 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "353bd97c-8e87-4b28-a874-92d16febf70d")
-	)
-	(wire
-		(pts
 			(xy 364.49 116.84) (xy 364.49 120.65)
 		)
 		(stroke
@@ -7570,16 +7536,6 @@
 			(type default)
 		)
 		(uuid "4029c2fa-acad-46b1-8291-952d67ca56ee")
-	)
-	(wire
-		(pts
-			(xy 406.4 105.41) (xy 414.02 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40d4db3d-317b-43e7-b432-4af1da75c58b")
 	)
 	(wire
 		(pts
@@ -8163,16 +8119,6 @@
 	)
 	(wire
 		(pts
-			(xy 406.4 105.41) (xy 406.4 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "60a90c02-270d-4ee3-9ff9-f17fa005c130")
-	)
-	(wire
-		(pts
 			(xy 83.82 167.64) (xy 83.82 170.18)
 		)
 		(stroke
@@ -8423,16 +8369,6 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 116.84) (xy 414.02 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6fc8b2f6-0860-4aa0-ad04-8704bdb1c157")
-	)
-	(wire
-		(pts
 			(xy 389.89 66.04) (xy 389.89 67.31)
 		)
 		(stroke
@@ -8490,16 +8426,6 @@
 			(type default)
 		)
 		(uuid "717bff7d-5708-49b0-a39a-d7f78c1a51bb")
-	)
-	(wire
-		(pts
-			(xy 414.02 105.41) (xy 414.02 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "718a45ba-1165-458e-8dea-33f345d15e65")
 	)
 	(wire
 		(pts
@@ -9043,16 +8969,6 @@
 	)
 	(wire
 		(pts
-			(xy 406.4 116.84) (xy 406.4 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "917fafd7-d624-4159-9f84-93c4bb11c349")
-	)
-	(wire
-		(pts
 			(xy 55.88 86.36) (xy 55.88 88.9)
 		)
 		(stroke
@@ -9093,7 +9009,7 @@
 	)
 	(wire
 		(pts
-			(xy 401.32 105.41) (xy 406.4 105.41)
+			(xy 401.32 105.41) (xy 429.26 105.41)
 		)
 		(stroke
 			(width 0)
@@ -9670,16 +9586,6 @@
 			(type default)
 		)
 		(uuid "b46f19ec-6855-49f8-b6b1-48eea9ec6eeb")
-	)
-	(wire
-		(pts
-			(xy 401.32 120.65) (xy 406.4 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b482547d-0e96-497f-9f8d-7c02fad40226")
 	)
 	(wire
 		(pts
@@ -10283,16 +10189,6 @@
 	)
 	(wire
 		(pts
-			(xy 414.02 105.41) (xy 429.26 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7306958-a0eb-42c8-8c38-31cfe5751605")
-	)
-	(wire
-		(pts
 			(xy 311.15 116.84) (xy 311.15 120.65)
 		)
 		(stroke
@@ -10533,7 +10429,7 @@
 	)
 	(wire
 		(pts
-			(xy 406.4 120.65) (xy 414.02 120.65)
+			(xy 401.32 120.65) (xy 431.8 120.65)
 		)
 		(stroke
 			(width 0)
@@ -13453,102 +13349,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 414.02 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "189d03b5-03a0-49cd-852f-241790b0215c")
-		(property "Reference" "C214"
-			(at 412.75 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330µ/4V"
-			(at 414.02 131.572 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 414.9852 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 414.02 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CAP CER 330UF 4V X5R 1210"
-			(at 414.02 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "D"
-			(at 414.02 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "GRM32ER60G337ME05K"
-			(at 414.02 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
-			(at 414.02 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7f640817-e2f0-448b-bef5-06dc7813d4af")
-		)
-		(pin "2"
-			(uuid "d943c8b4-d784-4619-b010-f82b9344ee2d")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
-					(reference "C214")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 186.69 50.8 90)
 		(mirror x)
@@ -14614,7 +14414,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:IFLR-4031GC-01-8x10"
+		(property "Footprint" "Nerd8:IFLR-4031GC-01-8x10"
 			(at 241.3 54.61 0)
 			(effects
 				(font
@@ -16596,7 +16396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:IFLR-4031GC-01-8x10"
+		(property "Footprint" "Nerd8:IFLR-4031GC-01-8x10"
 			(at 242.57 198.12 0)
 			(effects
 				(font
@@ -21943,7 +21743,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:CSD95472-SON-5x6"
+		(property "Footprint" "Nerd8:CSD95472-SON-5x6"
 			(at 213.36 194.31 0)
 			(effects
 				(font
@@ -22880,7 +22680,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:IFLR-4031GC-01-8x10"
+		(property "Footprint" "Nerd8:IFLR-4031GC-01-8x10"
 			(at 242.57 148.59 0)
 			(effects
 				(font
@@ -25499,7 +25299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:CSD95472-SON-5x6"
+		(property "Footprint" "Nerd8:CSD95472-SON-5x6"
 			(at 213.36 101.6 0)
 			(effects
 				(font
@@ -27208,102 +27008,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 406.4 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b69e36bf-cb29-4075-b596-3b160a9f22f6")
-		(property "Reference" "C210"
-			(at 405.13 111.76 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "330µ/4V"
-			(at 406.4 131.572 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric"
-			(at 407.3652 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 406.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CAP CER 330UF 4V X5R 1210"
-			(at 406.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Distributor" "D"
-			(at 406.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "GRM32ER60G337ME05K"
-			(at 406.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "OrderNr" "490-GRM32ER60G337ME05KCT-ND"
-			(at 406.4 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8904c4fa-f9fe-49d5-84b7-309cfb333a03")
-		)
-		(pin "2"
-			(uuid "b5cfe2bf-3cc0-49d9-897e-28f0fec97d7a")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/8ec0a9c6-2b78-44ef-a83d-9047d2828409"
-					(reference "C210")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 339.09 71.755 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28264,7 +27968,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:IFLR-4031GC-01-8x10"
+		(property "Footprint" "Nerd8:IFLR-4031GC-01-8x10"
 			(at 242.57 105.41 0)
 			(effects
 				(font
@@ -30253,7 +29957,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:CSD95472-SON-5x6"
+		(property "Footprint" "Nerd8:CSD95472-SON-5x6"
 			(at 213.36 144.78 0)
 			(effects
 				(font
@@ -32707,7 +32411,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:CSD95472-SON-5x6"
+		(property "Footprint" "Nerd8:CSD95472-SON-5x6"
 			(at 212.09 50.8 0)
 			(effects
 				(font
