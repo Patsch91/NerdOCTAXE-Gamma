@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 5,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_netclasses": [],
@@ -29,9 +29,23 @@
       "zones": true
     },
     "visible_items": [
-      12
+      "vias",
+      "footprint_text",
+      "ratsnest",
+      "grid",
+      "footprints_front",
+      "footprints_back",
+      "footprint_references",
+      "tracks",
+      "drawing_sheet",
+      "bitmaps",
+      "pads",
+      "zones",
+      "locked_item_shadows",
+      "conflict_shadows",
+      "shapes"
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "00000000_00000000_0fffffff_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
@@ -42,7 +56,7 @@
   },
   "meta": {
     "filename": "Nerd8.kicad_prl",
-    "version": 3
+    "version": 5
   },
   "net_inspector_panel": {
     "col_hidden": [
