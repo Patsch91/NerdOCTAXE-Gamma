@@ -21,9 +21,9 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **DISCLAIMER:** This device is an *highly advanced* build and partly WIP. To get 8 Asics and the voltage regulator soldered properly *can* be very hard and frustrating if you are not used to soldering Asics or soldering in general. Using that amount of power, this device isn't a toy and you should know what you are doing - stay safe!
 
-**PCB:** For example with the JLC Plugin for Kicad you can export the files out of Kicad to order directly from JLCPCB or any other PCB-Manufacturer
+**PCB:** For example with the JLC Plugin for Kicad you can export the files out of Kicad to order directly from JLCPCB or any other PCB-Manufacturer. I ordered 1oz on inner and outer layers and its working well for several weeks now. Happy to hear some feedback on 2/1oz or even 2/2oz boards (2/2oz would be incredibly hard to solder though)
 
-**BOM:** You can directly upload the .csv in this repo to Digikey. You will have to order the Lilygo T-Display S3 and the XT60PW-M seperately 
+**BOM:** You can directly upload the .csv in this repo to Digikey. You will have to order the Lilygo T-Display S3 and the XT60PW-M Power Connector seperately 
 
 **HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs there is still room for improvement
 
