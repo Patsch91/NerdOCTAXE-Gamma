@@ -25,7 +25,7 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **BOM:** You can directly upload the .csv in this repo to Digikey. You will have to order the Lilygo T-Display S3 and the XT60PW-M Power Connector seperately 
 
-**HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs you have to use some kind of heatsinks otherwise they will overheat ... in the picture of the board above I used some small heatsinks directly on each Mosfet and on the Inductors to cool them. (WIP)
+**HEATSINKS:** For this build I used two Thermalright AXP90-X53. **For cooling the CSDs you must use some kind of heatsinks otherwise they will overheat** ... in the picture of the board above I used some small heatsinks directly on each Mosfet and on the Inductors to cool them. (WIP)
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design/Images/NerdOCTAXE-Gamma_DoubleQ%20PCB.jpg" width="800px">
 
