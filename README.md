@@ -1,11 +1,11 @@
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/feat_bm1370/Nerd0ctaxeGamma-Logo%20Big.png" width="250px">
 
-**BRANCH: LGA_Design**
+**DoubleQ Rev2.2 **
 
 Alternative PCB design to fit another cooler for an open PCB. 
 
 
-<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design/Images/NerdOCTAXE-Gamma_DoubleQ.jpg" width="700px">
+<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Bucktest/Images/20250408_185311.jpg" width="700px">
 
 Highlights in comparison to the "standard" NerdOCTAXE:
 - runs far more silent
@@ -25,9 +25,9 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **BOM:** You can directly upload the .csv in this repo to Digikey. You will have to order the Lilygo T-Display S3 and the XT60PW-M seperately 
 
-**HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs there is still room for improvement
+**HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs I "tinkered" on a custom heatsink with a 150x10mm aluminum rod and some fins, which I cut off another heatsink - Will try to make some CAD-Model which can be manufactured at jlc for example.
 
-<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design/Images/NerdOCTAXE-Gamma_DoubleQ%20PCB.jpg" width="800px">
+<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Bucktest/Images/20250406_103209.jpg" width="800px">
 
 
 
