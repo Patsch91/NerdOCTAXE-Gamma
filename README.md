@@ -25,7 +25,7 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **BOM:** You can directly upload the .csv in this repo to Digikey. You will have to order the Lilygo T-Display S3 and the XT60PW-M seperately 
 
-**HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs I "tinkered" on a custom heatsink with a 150x10mm aluminum rod and some fins, which I cut off another heatsink - Will try to make some CAD-Model which can be manufactured at jlc for example.
+**HEATSINKS:** For this build I used two Thermalright AXP90-X53. For cooling the CSDs I "tinkered" on a custom heatsink with a 150x10mm aluminum rod and some fins, which I cut off another heatsink :) But its possible to just use 4x smaller heatsink directly on the CSDs
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design-Rev-2.2/Images/20250406_103209.jpg" width="800px">
 
