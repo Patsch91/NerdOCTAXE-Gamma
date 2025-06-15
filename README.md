@@ -19,7 +19,7 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 # Build
 
-**DISCLAIMER:** This device is an *highly advanced* build and partly WIP. To get 8 Asics and the voltage regulator soldered properly *can* be very hard and frustrating if you are not used to soldering Asics or soldering in general. Using that amount of power, this device isn't a toy and you should know what you are doing - stay safe!
+**DISCLAIMER:** This device is an *highly advanced* build and partly WIP. To get 8 Asics and the voltage regulator soldered properly *can* be very hard and frustrating if you are not used to soldering Asics or soldering in general. Using that amount of power, this device isn't a toy and you should know what you are doing - stay safe! Also this device is not intended or designed to run overclocked.
 
 **PCB:** For example with the JLC Plugin for Kicad you can export the files out of Kicad to order directly from JLCPCB or any other PCB-Manufacturer. I tested my prototype with 1oz on inner and outer layers... working nice :) If anyone is testing or 2/1oz please let me know of the results you are seeing!
 
