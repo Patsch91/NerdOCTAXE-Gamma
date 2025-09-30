@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.35,
-          "height": 0.6,
-          "width": 0.6
+          "drill": 3.2,
+          "height": 3.2,
+          "width": 3.2
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -69,7 +69,7 @@
         "connection_width": "warning",
         "copper_edge_clearance": "warning",
         "copper_sliver": "warning",
-        "courtyards_overlap": "error",
+        "courtyards_overlap": "warning",
         "creepage": "error",
         "diff_pair_gap_out_of_range": "error",
         "diff_pair_uncoupled_length_too_long": "error",
@@ -109,6 +109,7 @@
         "solder_mask_bridge": "error",
         "starved_thermal": "warning",
         "text_height": "warning",
+        "text_on_edge_cuts": "error",
         "text_thickness": "warning",
         "through_hole_pad_without_hole": "error",
         "too_many_vias": "error",
@@ -709,9 +710,21 @@
           "label": "Brand",
           "name": "Brand",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Manufacturer ",
+          "name": "Manufacturer ",
+          "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "c185",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",

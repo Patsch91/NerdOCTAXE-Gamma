@@ -1076,6 +1076,297 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:C_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.254 1.778 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C_Small"
+				(at 0.254 -2.032 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "capacitor cap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.524 0.508) (xy 1.524 0.508)
+					)
+					(stroke
+						(width 0.3048)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -0.508) (xy 1.524 -0.508)
+					)
+					(stroke
+						(width 0.3302)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 2.032)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:FerriteBead_Small"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "FB"
+				(at 1.905 1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "FerriteBead_Small"
+				(at 1.905 -1.27 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Ferrite bead, small symbol"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "L ferrite bead inductor filter"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Inductor_* L_* *Ferrite*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "FerriteBead_Small_0_1"
+				(polyline
+					(pts
+						(xy -1.8288 0.2794) (xy -1.1176 1.4986) (xy 1.8288 -0.2032) (xy 1.1176 -1.4224) (xy -1.8288 0.2794)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.889) (xy 0 1.2954)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -1.27) (xy 0 -0.7874)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "FerriteBead_Small_1_1"
+				(pin passive line
+					(at 0 2.54 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -2.54 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R"
 			(pin_numbers
 				(hide yes)
@@ -4028,6 +4319,12 @@
 		(uuid "6156e630-6d8e-444b-a502-3203a8ef13f5")
 	)
 	(junction
+		(at 278.13 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8503be5a-fd63-4962-892f-f866727f8f6a")
+	)
+	(junction
 		(at 255.905 147.955)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4044,6 +4341,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8adb13b6-d185-4118-97a2-42d00ba98cac")
+	)
+	(junction
+		(at 274.32 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a106fc0a-f021-4dd3-8d7a-6b02ab934434")
 	)
 	(junction
 		(at 240.792 35.052)
@@ -4337,13 +4640,23 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 62.738) (xy 100.33 62.738)
+			(xy 88.9 62.23) (xy 90.17 62.23)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3962cf0e-67d6-442d-b467-7555c5b0e61e")
+	)
+	(wire
+		(pts
+			(xy 95.25 62.738) (xy 100.33 62.738)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c5cf12f-214e-4689-8960-8e8122b2c6ed")
 	)
 	(wire
 		(pts
@@ -4357,7 +4670,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 93.218) (xy 104.14 93.218)
+			(xy 88.9 93.98) (xy 93.98 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4377,6 +4690,26 @@
 	)
 	(wire
 		(pts
+			(xy 266.065 140.335) (xy 274.32 140.335)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bf71f96-bf4a-4570-9997-b267b00577f6")
+	)
+	(wire
+		(pts
+			(xy 274.32 105.41) (xy 278.13 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4cc34a3e-ee2c-40fa-846f-dddce37b6ef7")
+	)
+	(wire
+		(pts
 			(xy 140.335 144.145) (xy 140.335 139.065)
 		)
 		(stroke
@@ -4384,6 +4717,16 @@
 			(type default)
 		)
 		(uuid "53d5b86e-101d-4a70-9357-f6c2edca0b49")
+	)
+	(wire
+		(pts
+			(xy 278.13 105.41) (xy 278.13 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "558d3860-c8a7-4082-ae4a-8d19af6995e8")
 	)
 	(wire
 		(pts
@@ -4677,6 +5020,26 @@
 	)
 	(wire
 		(pts
+			(xy 99.06 93.98) (xy 104.14 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "876443ff-cb6c-4fbe-9bcc-dcd4ff3cb94b")
+	)
+	(wire
+		(pts
+			(xy 274.32 140.335) (xy 274.32 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "877c75a0-d834-4a8b-87e8-d3aeee60ff14")
+	)
+	(wire
+		(pts
 			(xy 137.668 55.626) (xy 137.668 57.404)
 		)
 		(stroke
@@ -4757,7 +5120,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 93.218) (xy 91.44 93.218)
+			(xy 78.74 93.98) (xy 81.28 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4887,7 +5250,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 90.678) (xy 139.7 90.678)
+			(xy 127 90.678) (xy 133.985 90.678)
 		)
 		(stroke
 			(width 0)
@@ -4927,6 +5290,16 @@
 	)
 	(wire
 		(pts
+			(xy 139.065 90.678) (xy 139.7 90.678)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc3e061-7183-45ba-996b-077acb0db671")
+	)
+	(wire
+		(pts
 			(xy 132.08 65.278) (xy 132.08 85.598)
 		)
 		(stroke
@@ -4957,7 +5330,7 @@
 	)
 	(wire
 		(pts
-			(xy 104.14 93.218) (xy 104.14 90.678)
+			(xy 104.14 93.98) (xy 104.14 90.678)
 		)
 		(stroke
 			(width 0)
@@ -5097,6 +5470,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 113.03) (xy 278.13 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da292489-d799-4878-8303-1c16854cb981")
+	)
+	(wire
+		(pts
 			(xy 233.045 59.055) (xy 235.585 59.055)
 		)
 		(stroke
@@ -5227,6 +5610,26 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 104.14) (xy 278.13 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebad23e8-d5a3-416b-a5eb-976c3dbb0616")
+	)
+	(wire
+		(pts
+			(xy 95.25 62.23) (xy 95.25 62.738)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ece80f44-5da2-4d0b-bf08-16d686d403a9")
+	)
+	(wire
+		(pts
 			(xy 200.025 99.695) (xy 200.025 102.235)
 		)
 		(stroke
@@ -5257,6 +5660,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.065 105.41) (xy 274.32 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa6adeeb-cf8a-48bd-8f48-b46d39da15fd")
+	)
+	(wire
+		(pts
 			(xy 68.58 64.008) (xy 68.58 65.278)
 		)
 		(stroke
@@ -5267,7 +5680,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.065 109.855) (xy 266.065 112.395)
+			(xy 266.065 105.41) (xy 266.065 112.395)
 		)
 		(stroke
 			(width 0)
@@ -5411,7 +5824,7 @@
 	)
 	(hierarchical_label "+5V"
 		(shape input)
-		(at 88.9 93.218 180)
+		(at 78.74 93.98 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5559,6 +5972,74 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "#PWR0178")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 278.13 101.6 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0485a51f-e813-42b2-8abf-daaf2501a0b9")
+		(property "Reference" "FB1"
+			(at 279.4 99.314 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG221SN1D"
+			(at 281.432 105.664 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 279.908 101.6 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 278.13 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 278.13 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7042b456-10b7-4578-b24f-e152dac2e58e")
+		)
+		(pin "2"
+			(uuid "503a203c-ad99-423e-bd1c-a541cc57a36e")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "FB1")
 					(unit 1)
 				)
 			)
@@ -5910,6 +6391,142 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "M2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 92.71 62.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "18f8852b-57ef-4552-b720-044719374801")
+		(property "Reference" "FB3"
+			(at 90.424 60.96 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG221SN1D"
+			(at 96.774 58.928 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 92.71 60.452 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 92.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 92.71 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9a940698-797a-4fc5-8756-9072cd70ec98")
+		)
+		(pin "2"
+			(uuid "1e2f8cff-3a2c-46aa-86fa-1b7adc8c344b")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 96.52 93.98 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "19b799f2-20d0-4caa-9105-ffb2daa13128")
+		(property "Reference" "FB2"
+			(at 94.234 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG221SN1D"
+			(at 100.584 90.678 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 96.52 92.202 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 96.52 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1a10333b-0927-45ce-a12a-3f504308ee3e")
+		)
+		(pin "2"
+			(uuid "139d45ec-1b72-4e22-9f25-86a215468500")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -6901,6 +7518,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 278.13 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bc47782-eb3e-465b-ada1-8b638a305e6f")
+		(property "Reference" "#PWR0245"
+			(at 278.13 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 278.13 117.475 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 278.13 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fd6078cd-eef0-433c-a512-e027053609e8")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "#PWR0245")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 137.668 61.214 0)
 		(mirror y)
@@ -7513,6 +8196,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+12V")
+		(at 278.13 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "65cec763-8459-440c-bc2b-db7b62450f7b")
+		(property "Reference" "#PWR0244"
+			(at 278.13 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 278.13 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 278.13 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "df5a231c-4c42-4822-8431-2545fe88a8e7")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "#PWR0244")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 100.33 62.738 0)
 		(unit 1)
@@ -7767,6 +8516,74 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:FerriteBead_Small")
+		(at 136.525 90.678 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "76cd4099-2e10-4db1-87eb-6ac1f3bef4c4")
+		(property "Reference" "FB4"
+			(at 134.239 89.408 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BLM21PG221SN1D"
+			(at 140.589 87.376 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 136.525 88.9 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 136.525 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Ferrite bead, small symbol"
+			(at 136.525 90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "07271642-0bd7-4962-a365-879fc552761e")
+		)
+		(pin "2"
+			(uuid "18e6bddc-846c-418f-a91a-8722e4d95127")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "FB4")
 					(unit 1)
 				)
 			)
@@ -8260,7 +9077,7 @@
 	(symbol
 		(lib_name "+3V3_1")
 		(lib_id "power:+3V3")
-		(at 99.06 62.738 90)
+		(at 88.9 62.23 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8268,7 +9085,7 @@
 		(dnp no)
 		(uuid "8d2a7dc7-2882-4e0e-bb92-47f20ebc4275")
 		(property "Reference" "#PWR04001"
-			(at 102.87 62.738 0)
+			(at 92.71 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8277,7 +9094,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 95.25 62.7381 90)
+			(at 85.09 62.2301 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8286,7 +9103,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 62.738 0)
+			(at 88.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8295,7 +9112,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 62.738 0)
+			(at 88.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8304,7 +9121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 99.06 62.738 0)
+			(at 88.9 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9503,8 +10320,122 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Small")
+		(at 278.13 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bbb7b64d-c92c-46c0-a2ef-ce0034a22228")
+		(property "Reference" "C165"
+			(at 280.162 104.394 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Value" "10uF"
+			(at 280.924 107.188 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Voltage" ""
+			(at 282.194 105.41 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PARTNO" "CL10A106MO8NQNC"
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "DK" ""
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer " "Samsung Electro-Mechanics"
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C92487 Hot "
+			(at 278.13 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "27f231bc-2058-4cfa-a2db-f7e23fa8edf0")
+		)
+		(pin "2"
+			(uuid "6891fd75-8df4-4a2b-8d27-e2579bc887d9")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "C165")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Diode:US1D")
-		(at 95.25 93.218 180)
+		(at 85.09 93.98 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9512,7 +10443,7 @@
 		(dnp no)
 		(uuid "bc8f145e-5f13-471f-8f2e-22bb51024d56")
 		(property "Reference" "D3"
-			(at 91.44 95.123 0)
+			(at 81.28 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9520,7 +10451,7 @@
 			)
 		)
 		(property "Value" "1N5819"
-			(at 99.06 95.123 0)
+			(at 88.9 95.885 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9528,7 +10459,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 95.25 88.773 0)
+			(at 85.09 89.535 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9537,7 +10468,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds16008.pdf"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9546,7 +10477,7 @@
 			)
 		)
 		(property "Description" "DIODE SCHOTTKY 40V 1A SOD123"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9555,7 +10486,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9564,7 +10495,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9573,7 +10504,7 @@
 			)
 		)
 		(property "Distributor" "D"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9582,7 +10513,7 @@
 			)
 		)
 		(property "Manufacturer" "1N5819HWQ-7-F"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9591,7 +10522,7 @@
 			)
 		)
 		(property "OrderNr" "31-1N5819HWQ-7-FCT-ND"
-			(at 95.25 93.218 0)
+			(at 85.09 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9839,72 +10770,6 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "R44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 266.065 109.855 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c659bcb7-e16e-414d-a14e-5b917887ae9c")
-		(property "Reference" "#PWR0213"
-			(at 266.065 113.665 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 266.065 104.775 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 266.065 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 266.065 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 266.065 109.855 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1be90593-a5fe-427f-82a8-c028d0a4e1e5")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
-					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -10583,72 +11448,6 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "#PWR04003")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 266.065 140.335 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f127aaf5-7358-4562-8da9-7c28cb5bf68f")
-		(property "Reference" "#PWR0215"
-			(at 266.065 144.145 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 266.065 135.255 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 266.065 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 266.065 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 266.065 140.335 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1aeaa327-af32-450c-8cdd-bf602e93806e")
-		)
-		(instances
-			(project "Nerd8"
-				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
-					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
