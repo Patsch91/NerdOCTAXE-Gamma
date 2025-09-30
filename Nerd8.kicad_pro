@@ -553,7 +553,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../gerbers/",
+      "plot": "Gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../../../Desktop/Bitaxe/OctaxeCase/DoubleQ/DQ.step",
