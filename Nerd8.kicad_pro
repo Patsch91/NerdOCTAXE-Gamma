@@ -554,7 +554,7 @@
       "idf": "",
       "netlist": "",
       "plot": "Gerbers/",
-      "pos_files": "",
+      "pos_files": "Production Files/",
       "specctra_dsn": "",
       "step": "../../../Desktop/Bitaxe/OctaxeCase/DoubleQ/DQ.step",
       "svg": "",
@@ -730,7 +730,7 @@
           "show": false
         }
       ],
-      "filter_string": "c185",
+      "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
       "name": "",

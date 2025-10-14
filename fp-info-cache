@@ -1,4 +1,4 @@
-26512415436071225
+26514200950425941
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -73091,7 +73091,7 @@ CSD95472-SON-5x6
 
 
 0
-63
+49
 13
 Nerd8
 C_0805_2012Metric
@@ -73345,6 +73345,13 @@ VSONP 1.27
 0
 13
 3
+Nerd8
+bitronics-logo
+
+
+0
+0
+0
 Nerd8
 dummy
 

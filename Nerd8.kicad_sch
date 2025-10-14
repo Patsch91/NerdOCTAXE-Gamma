@@ -2127,7 +2127,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C92487 Hot "
+		(property "LCSC" "C92487"
 			(at 68.58 59.69 0)
 			(effects
 				(font
@@ -2268,6 +2268,15 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 64.77 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5597997"
+			(at 64.77 46.99 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2456,6 +2465,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C89632"
+			(at 57.15 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "22aba807-5114-4ba4-a32d-93b1f1bb2d33")
 		)
@@ -2552,6 +2570,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C113985"
+			(at 52.07 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da3c1dd9-13e5-4a98-bf63-9ddff2ae49c2")
 		)
@@ -2619,6 +2646,15 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 64.77 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5597997"
+			(at 64.77 41.91 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2806,6 +2842,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C89632"
+			(at 73.66 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14c7ea4c-4aee-4c20-8d07-bee64fbceb65")
 		)
@@ -2886,6 +2931,15 @@
 			)
 		)
 		(property "OrderNr" ""
+			(at 33.782 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C98732"
 			(at 33.782 54.61 0)
 			(effects
 				(font
@@ -2991,6 +3045,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C5249699"
+			(at 43.18 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c8142356-200c-4235-8800-1bf99de402a2")
 		)
@@ -3058,6 +3121,15 @@
 		)
 		(property "Description" "Ferrite bead, small symbol"
 			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C5597997"
+			(at 64.77 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
