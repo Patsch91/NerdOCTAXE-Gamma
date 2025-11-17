@@ -3931,7 +3931,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.548 153.67) (xy 36.068 153.67)
+			(xy 66.548 153.67) (xy 19.812 153.67)
 		)
 		(stroke
 			(width 0)
@@ -4811,7 +4811,7 @@
 	)
 	(wire
 		(pts
-			(xy 66.548 151.13) (xy 36.068 151.13)
+			(xy 19.812 151.13) (xy 66.548 151.13)
 		)
 		(stroke
 			(width 0)
@@ -5480,9 +5480,20 @@
 		)
 		(uuid "97c22102-9c72-4f8e-9694-d092b5a5317b")
 	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 35.306 208.788 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9ca39484-4db9-4eea-954e-c7432bc35ae2")
+	)
 	(hierarchical_label "SCL"
 		(shape input)
-		(at 36.068 153.67 180)
+		(at 19.812 153.67 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5493,7 +5504,7 @@
 	)
 	(hierarchical_label "SDA"
 		(shape bidirectional)
-		(at 36.068 151.13 180)
+		(at 19.812 151.13 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5512,17 +5523,6 @@
 			(justify right)
 		)
 		(uuid "c7b189be-f12b-4677-beb1-df5927b9bf73")
-	)
-	(hierarchical_label "SDA"
-		(shape bidirectional)
-		(at 35.306 208.788 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d4f0ef41-cf3a-40da-94f9-af67dd8bf9f8")
 	)
 	(symbol
 		(lib_id "power:GND")
@@ -7392,21 +7392,21 @@
 		(fields_autoplaced yes)
 		(uuid "66b1f60c-cad0-4bb8-acd6-0d184edad321")
 		(property "Reference" "U20"
-			(at 74.5647 144.145 0)
+			(at 79.8261 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "TMP451"
-			(at 74.5647 146.685 0)
+		(property "Value" "TMP451A"
+			(at 79.8261 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm"
@@ -9974,21 +9974,21 @@
 		(fields_autoplaced yes)
 		(uuid "f3d2892a-ff7b-48b9-adf0-2d1d5e724cd2")
 		(property "Reference" "U22"
-			(at 73.8027 201.803 0)
+			(at 79.0641 200.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "TMP451"
-			(at 73.8027 204.343 0)
+		(property "Value" "TMP451J"
+			(at 79.0641 203.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm"
