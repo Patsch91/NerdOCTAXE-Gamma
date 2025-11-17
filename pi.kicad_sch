@@ -4395,10 +4395,6 @@
 		(uuid "655084aa-3015-45d4-8666-51a7a3033801")
 	)
 	(no_connect
-		(at 104.14 67.818)
-		(uuid "7dd9e418-ab0b-4139-8dfa-a4955c073473")
-	)
-	(no_connect
 		(at 104.14 77.978)
 		(uuid "b023d35e-091c-4f48-8743-140eda68fec2")
 	)
@@ -4409,10 +4405,6 @@
 	(no_connect
 		(at 127 80.518)
 		(uuid "de72c1e5-d2f0-4ad8-bf91-31d33b5df1ba")
-	)
-	(no_connect
-		(at 104.14 70.358)
-		(uuid "deda3112-4a19-49a3-a63d-acfd05913d00")
 	)
 	(no_connect
 		(at 216.535 59.055)
@@ -4807,6 +4799,16 @@
 			(type default)
 		)
 		(uuid "5f859f58-0e4b-451d-8c24-cbe83cb54236")
+	)
+	(wire
+		(pts
+			(xy 99.314 67.818) (xy 104.14 67.818)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61b821c6-e0b9-463e-b6b6-582f31846df8")
 	)
 	(wire
 		(pts
@@ -5650,6 +5652,16 @@
 	)
 	(wire
 		(pts
+			(xy 99.314 70.358) (xy 104.14 70.358)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2693b73-02c5-47f9-8d28-7b60a6e22f43")
+	)
+	(wire
+		(pts
 			(xy 229.235 133.985) (xy 219.075 133.985)
 		)
 		(stroke
@@ -5810,6 +5822,28 @@
 			(justify right)
 		)
 		(uuid "3d0095bd-b6a0-497a-9a51-ca463e73abe4")
+	)
+	(hierarchical_label "TEMP_A0"
+		(shape input)
+		(at 99.314 67.818 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "453e94ae-bff8-45af-9482-7315aa6e0617")
+	)
+	(hierarchical_label "TEMP_A1"
+		(shape input)
+		(at 99.314 70.358 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "685edcc8-466b-450d-b82e-10e5bdbf9501")
 	)
 	(hierarchical_label "RXD"
 		(shape input)
@@ -8176,7 +8210,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "633f64ef-4ff0-4245-8488-eb7b957f904b")
 		(property "Reference" "U30"
