@@ -4411,10 +4411,6 @@
 		(uuid "de72c1e5-d2f0-4ad8-bf91-31d33b5df1ba")
 	)
 	(no_connect
-		(at 104.14 70.358)
-		(uuid "deda3112-4a19-49a3-a63d-acfd05913d00")
-	)
-	(no_connect
 		(at 216.535 59.055)
 		(uuid "e1ba16d6-8931-4a20-a745-b0c3ad298b38")
 	)
@@ -4660,6 +4656,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 69.85) (xy 92.71 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e7641a0-fdbd-40ad-8337-9abb00020181")
+	)
+	(wire
+		(pts
 			(xy 167.005 139.065) (xy 174.625 139.065)
 		)
 		(stroke
@@ -4707,6 +4713,16 @@
 			(type default)
 		)
 		(uuid "4cc34a3e-ee2c-40fa-846f-dddce37b6ef7")
+	)
+	(wire
+		(pts
+			(xy 104.14 70.358) (xy 100.33 70.358)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52ce9762-075d-4424-bd62-a69089eae418")
 	)
 	(wire
 		(pts
@@ -4797,6 +4813,16 @@
 			(type default)
 		)
 		(uuid "5e0fae54-7759-454b-84dc-6ed38ab43957")
+	)
+	(wire
+		(pts
+			(xy 100.33 70.358) (xy 100.33 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ed05252-370a-425f-ab98-eb633015208e")
 	)
 	(wire
 		(pts
@@ -6877,6 +6903,112 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "U37")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 96.52 69.85 90)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2aea3f87-03c9-4d17-b7bc-e8fb0b017534")
+		(property "Reference" "R51"
+			(at 96.266 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10k"
+			(at 101.092 67.818 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+			(at 96.52 68.072 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "RES 10K OHM 1% 1/8W 0805"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "RMCF0805FT10K0"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "OrderNr" "RMCF0805FT10K0CT-ND"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C140868"
+			(at 96.52 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "00b8db02-2b72-4623-afd5-46259b35ac7c")
+		)
+		(pin "2"
+			(uuid "ac39ac8f-dbb9-412b-b724-cc2010f1d6ea")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "R51")
 					(unit 1)
 				)
 			)
@@ -9709,6 +9841,73 @@
 			(project "Nerd8"
 				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
 					(reference "R36")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "+3V3_1")
+		(lib_id "power:+3V3")
+		(at 88.9 69.85 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f8f63d9-00de-47da-b693-61d3decb1f09")
+		(property "Reference" "#PWR0215"
+			(at 92.71 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 85.09 69.8501 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.9 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3V3\""
+			(at 88.9 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d45e5ac7-d632-44f8-926f-934fd00bc9e7")
+		)
+		(instances
+			(project "Nerd8"
+				(path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55/9bc1a7d6-07fa-4858-9423-fb2dbf7da294"
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)

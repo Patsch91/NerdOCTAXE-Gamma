@@ -5989,7 +5989,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "NerdOctaxe rev3"
+	(text "NerdOctaxe rev3.1"
 		(exclude_from_sim no)
 		(at 322.072 260.604 0)
 		(effects
@@ -6030,6 +6030,16 @@
 			)
 		)
 		(uuid "b838ee58-23c2-4f51-a21d-ebb37f7c2f7d")
+	)
+	(text "TODO>> CHANGE R3 FOR 24.9k"
+		(exclude_from_sim no)
+		(at 34.798 75.946 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "da96f1c2-9a39-4459-b2d2-1e50514f8838")
 	)
 	(junction
 		(at 313.69 213.36)
@@ -44732,7 +44742,7 @@
 				)
 			)
 		)
-		(property "Value" "33.2k"
+		(property "Value" "24.9k"
 			(at 40.132 87.63 90)
 			(effects
 				(font
