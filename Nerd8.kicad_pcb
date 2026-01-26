@@ -165783,7 +165783,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "Rev 3.2 DoubleQ "
+	(gr_text "Rev 3.4 DoubleQ "
 		(at 213.92 77.08 0)
 		(layer "F.SilkS")
 		(uuid "beb05ee0-45b7-4152-9f94-ccd66011f03c")

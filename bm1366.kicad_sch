@@ -6895,7 +6895,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 89.408 250.698 0)
 			(effects
 				(font
@@ -7672,6 +7672,30 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 110.998 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 110.998 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 110.998 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cdaf69ba-410f-44c0-a240-601b294864f4")
 		)
@@ -7911,7 +7935,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 145.288 137.16 0)
 			(effects
 				(font
@@ -8122,6 +8146,30 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 110.236 212.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 110.236 212.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 110.236 212.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1c461146-1774-472b-afdb-701c5dfeaf79")
 		)
@@ -8295,7 +8343,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 150.368 250.698 0)
 			(effects
 				(font
@@ -8477,7 +8525,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 90.678 135.89 0)
 			(effects
 				(font
@@ -8966,6 +9014,30 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Distributor" "D"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 110.998 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -9649,6 +9721,30 @@
 				(hide yes)
 			)
 		)
+		(property "Distributor" "D"
+			(at 110.236 221.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C17408"
+			(at 110.236 221.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "OrderNr" "311-100CRCT-ND"
+			(at 110.236 221.488 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1e77d60-e3a1-479a-9a32-a226b0ed5ccf")
 		)
@@ -9719,7 +9815,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 103.251 217.043 0)
 			(effects
 				(font
@@ -10134,7 +10230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Distributor" "Digikey"
+		(property "Distributor" "D"
 			(at 104.013 159.385 0)
 			(effects
 				(font
