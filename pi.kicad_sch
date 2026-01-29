@@ -7048,7 +7048,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:TMP1075-DRL"
+		(property "Footprint" "Nerd8:TMP1075-DRL"
 			(at 221.615 55.245 0)
 			(effects
 				(font
@@ -7230,7 +7230,7 @@
 				)
 			)
 		)
-		(property "Footprint" "myfootprints:TMP1075-DRL"
+		(property "Footprint" "Nerd8:TMP1075-DRL"
 			(at 221.996 28.956 0)
 			(effects
 				(font
