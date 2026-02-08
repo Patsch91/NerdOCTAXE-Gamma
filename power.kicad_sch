@@ -48778,7 +48778,7 @@
 				)
 			)
 		)
-		(property "Value" "33.2k"
+		(property "Value" "24.9k"
 			(at 40.132 87.63 90)
 			(effects
 				(font
@@ -48804,7 +48804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "RES 33.2K OHM 1% 1/8W 0805"
+		(property "Description" "RES 24.9K OHM 1% 1/8W 0805"
 			(at 35.56 87.63 0)
 			(effects
 				(font
@@ -48822,7 +48822,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "RMCF0805FT33K2CT-ND"
+		(property "OrderNr" "RMCF0805FT24K9CT-ND"
 			(at 35.56 87.63 90)
 			(effects
 				(font
@@ -48831,7 +48831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "RMCF0805FT33K2"
+		(property "Manufacturer" "RMCF0805FT24K9"
 			(at 35.56 87.63 0)
 			(effects
 				(font
@@ -48840,7 +48840,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C4228823"
+		(property "LCSC Part #" "C4260847"
 			(at 35.56 87.63 0)
 			(effects
 				(font

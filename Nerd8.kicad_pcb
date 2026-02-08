@@ -19179,7 +19179,7 @@
 				)
 			)
 		)
-		(property "Value" "33.2k"
+		(property "Value" "24.9k"
 			(at 0 1.65 270)
 			(layer "F.Fab")
 			(uuid "3c78dc75-c873-4421-b6b4-467849439287")
@@ -19203,7 +19203,7 @@
 				)
 			)
 		)
-		(property "Description" "RES 33.2K OHM 1% 1/8W 0805"
+		(property "Description" "RES 24.9K OHM 1% 1/8W 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19229,7 +19229,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "RMCF0805FT33K2CT-ND"
+		(property "OrderNr" "RMCF0805FT24K9CT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19242,7 +19242,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "RMCF0805FT33K2"
+		(property "Manufacturer" "RMCF0805FT24K9"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -19255,7 +19255,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C4228823"
+		(property "LCSC Part #" "C4260847"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
