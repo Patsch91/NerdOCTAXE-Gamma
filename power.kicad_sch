@@ -17395,7 +17395,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n/0.7mm"
+		(property "Value" "2.7n/0.7mm"
 			(at 231.775 74.93 90)
 			(effects
 				(font
@@ -17422,7 +17422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0805"
+		(property "Description" "CAP CER 2700PF 50V C0G/NP0 0805"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -17440,7 +17440,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CC0805KRX7R0BB102"
+		(property "Manufacturer" "GRM2165C1H272JA01D"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -17449,7 +17449,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "311-1472-1-ND"
+		(property "OrderNr" "490-1630-1-ND"
 			(at 234.95 68.58 0)
 			(effects
 				(font
@@ -23273,7 +23273,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n/0.7mm"
+		(property "Value" "2.7n/0.7mm"
 			(at 233.045 125.73 90)
 			(effects
 				(font
@@ -23300,7 +23300,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0805"
+		(property "Description" "CAP CER 2700PF 50V C0G/NP0 0805"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -23318,7 +23318,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CC0805KRX7R0BB102"
+		(property "Manufacturer" "GRM2165C1H272JA01D"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -23327,7 +23327,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "311-1472-1-ND"
+		(property "OrderNr" "490-1630-1-ND"
 			(at 236.22 119.38 0)
 			(effects
 				(font
@@ -27865,7 +27865,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n/0.7mm"
+		(property "Value" "2.7n/0.7mm"
 			(at 233.045 168.91 90)
 			(effects
 				(font
@@ -27892,7 +27892,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0805"
+		(property "Description" "CAP CER 2700PF 50V C0G/NP0 0805"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -27910,7 +27910,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CC0805KRX7R0BB102"
+		(property "Manufacturer" "GRM2165C1H272JA01D"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -27919,7 +27919,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "311-1472-1-ND"
+		(property "OrderNr" "490-1630-1-ND"
 			(at 236.22 162.56 0)
 			(effects
 				(font
@@ -32107,7 +32107,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1n/0.7mm"
+		(property "Value" "2.7n/0.7mm"
 			(at 233.045 218.44 90)
 			(effects
 				(font
@@ -32134,7 +32134,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1000PF 100V X7R 0805"
+		(property "Description" "CAP CER 2700PF 50V C0G/NP0 0805"
 			(at 236.22 212.09 0)
 			(effects
 				(font
@@ -32152,7 +32152,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CC0805KRX7R0BB102"
+		(property "Manufacturer" "GRM2165C1H272JA01D"
 			(at 236.22 212.09 0)
 			(effects
 				(font
@@ -32161,7 +32161,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "311-1472-1-ND"
+		(property "OrderNr" "490-1630-1-ND"
 			(at 236.22 212.09 0)
 			(effects
 				(font
