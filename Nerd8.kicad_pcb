@@ -13020,7 +13020,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "8950e0bd-b726-424c-842a-536e34f9240e")
@@ -13044,7 +13044,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13070,7 +13070,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13083,7 +13083,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -13109,7 +13109,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18090,7 +18090,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "340116b9-eb21-4680-80a9-d9adfba7d90f")
@@ -18114,7 +18114,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18140,7 +18140,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18153,7 +18153,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18179,7 +18179,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18356,7 +18356,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "20a2821b-ee44-44bd-8d94-1dfc2c0d60e4")
@@ -18380,7 +18380,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18406,7 +18406,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18419,7 +18419,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18445,7 +18445,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35893,7 +35893,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "821875be-3330-40a6-aa65-3979e9c6aac7")
@@ -35916,7 +35916,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -35941,7 +35941,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35954,7 +35954,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -35980,7 +35980,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72185,7 +72185,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "2471ea29-db11-4518-90ef-b2a786b763f8")
@@ -72208,7 +72208,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -72233,7 +72233,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72246,7 +72246,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -72272,7 +72272,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76351,7 +76351,7 @@
 				)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 0 1.68 90)
 			(layer "F.Fab")
 			(uuid "8e1d12f1-874e-479c-9f23-fa296410b803")
@@ -76375,7 +76375,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76401,7 +76401,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76414,7 +76414,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -76440,7 +76440,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

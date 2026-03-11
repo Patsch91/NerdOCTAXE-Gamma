@@ -28307,7 +28307,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 231.394 58.928 90)
 			(effects
 				(font
@@ -28334,7 +28334,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 234.95 56.896 0)
 			(effects
 				(font
@@ -28352,7 +28352,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 234.95 56.896 0)
 			(effects
 				(font
@@ -28361,7 +28361,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 234.95 56.896 0)
 			(effects
 				(font
@@ -28379,7 +28379,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 234.95 56.896 0)
 			(effects
 				(font
@@ -36618,7 +36618,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 234.95 278.892 90)
 			(effects
 				(font
@@ -36645,7 +36645,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 238.76 277.114 0)
 			(effects
 				(font
@@ -36663,7 +36663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 238.76 277.114 0)
 			(effects
 				(font
@@ -36672,7 +36672,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 238.76 277.114 0)
 			(effects
 				(font
@@ -36690,7 +36690,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 238.76 277.114 0)
 			(effects
 				(font
@@ -40425,7 +40425,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 229.87 101.854 90)
 			(effects
 				(font
@@ -40452,7 +40452,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 233.68 100.076 0)
 			(effects
 				(font
@@ -40470,7 +40470,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 233.68 100.076 0)
 			(effects
 				(font
@@ -40479,7 +40479,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 233.68 100.076 0)
 			(effects
 				(font
@@ -40497,7 +40497,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 233.68 100.076 0)
 			(effects
 				(font
@@ -47920,7 +47920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 232.41 144.78 90)
 			(effects
 				(font
@@ -47947,7 +47947,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 236.22 142.748 0)
 			(effects
 				(font
@@ -47965,7 +47965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 236.22 142.748 0)
 			(effects
 				(font
@@ -47974,7 +47974,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 236.22 142.748 0)
 			(effects
 				(font
@@ -47992,7 +47992,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 236.22 142.748 0)
 			(effects
 				(font
@@ -55004,7 +55004,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 233.934 235.712 90)
 			(effects
 				(font
@@ -55031,7 +55031,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 237.49 233.934 0)
 			(effects
 				(font
@@ -55049,7 +55049,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 237.49 233.934 0)
 			(effects
 				(font
@@ -55058,7 +55058,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 237.49 233.934 0)
 			(effects
 				(font
@@ -55076,7 +55076,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 237.49 233.934 0)
 			(effects
 				(font
@@ -56297,7 +56297,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "10n"
+		(property "Value" "6.8n"
 			(at 232.664 189.23 90)
 			(effects
 				(font
@@ -56324,7 +56324,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 10000PF 50V C0G 0805"
+		(property "Description" "CAP CER 6800PF 100V C0G/NP0 0805"
 			(at 236.22 187.706 0)
 			(effects
 				(font
@@ -56342,7 +56342,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "CGA4C2C0G1H103J060AA"
+		(property "Manufacturer" "GRM2165C2A682JA01D"
 			(at 236.22 187.706 0)
 			(effects
 				(font
@@ -56351,7 +56351,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "445-6947-1-ND"
+		(property "OrderNr" "490-GRM2165C2A682JA01DCT-ND"
 			(at 236.22 187.706 0)
 			(effects
 				(font
@@ -56369,7 +56369,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part #" "C1845387"
+		(property "LCSC Part #" "C3905032"
 			(at 236.22 187.706 0)
 			(effects
 				(font
