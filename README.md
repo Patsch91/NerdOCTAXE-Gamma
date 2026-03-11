@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design-Rev-2.2/Images/20250408_185311.jpg" width="700px">
+<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/ph6/Images/Rev3-4.jpg" width="700px">
 
 Rev3.4:
 - 6 Phase Buck Converter
@@ -13,6 +13,8 @@ Rev3.4:
 
 
 The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+](https://github.com/shufps/ESP-Miner-NerdQAxePlus) (Releases for NerdOCTAXE-Gamma)
+
+To flash the Lilygo T-Display you can use the [Webflasher](https://shufps.github.io/nerdqaxe-web-flasher/)
 
 -------------------------------
 
@@ -26,7 +28,9 @@ The NerdOCTAXEγ runs with a modified version of the AxeOS: [ESP-Miner-NerdQAxe+
 
 **HEATSINKS:** For this build I used two Thermalright AXP90-X53 
 
-<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design-Rev-2.2/Images/20250406_103209.jpg" width="800px">
+**ASICS:** This board utilizes Bitmains BM1370-Series. I tested boards with the following variants: BM1370BC < BM1370PA < BM1370PF 
+
+
 
 
 
