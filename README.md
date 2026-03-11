@@ -2,13 +2,12 @@
 
 **NerdOCTAXE-γ Rev3.4  **
 
-Alternative PCB design to fit another cooler for an open PCB. 
 
 
 <img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/LGA_Design-Rev-2.2/Images/20250408_185311.jpg" width="700px">
 
 Rev3.4:
-- 6 Phase Buck Converter with some little changes 
+- 6 Phase Buck Converter
 - Added curcuit to read the internal temperature of each asic
 
 
