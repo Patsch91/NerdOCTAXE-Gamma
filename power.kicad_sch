@@ -23413,7 +23413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "TPS53647RTAR"
+		(property "Manufacturer" "TPS53667RTAR"
 			(at 87.63 90.17 0)
 			(effects
 				(font
@@ -23422,7 +23422,7 @@
 				(hide yes)
 			)
 		)
-		(property "OrderNr" "296-51986-1-ND"
+		(property "OrderNr" "296-44940-1-ND"
 			(at 87.63 90.17 0)
 			(effects
 				(font
