@@ -7824,7 +7824,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 4,7UF 50V X7R 1210"
+		(property "Description" "CAP CER 10UF 50V X7R 1210"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -32646,7 +32646,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 4,7UF 50V X7R 1210"
+		(property "Description" "CAP CER 10UF 50V X7R 1210"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -46647,7 +46647,7 @@
 				)
 			)
 		)
-		(property "Manufacturer" "TPS53647RTAR"
+		(property "Manufacturer" "TPS53667RTAR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -46660,7 +46660,7 @@
 				)
 			)
 		)
-		(property "OrderNr" "296-51986-1-ND"
+		(property "OrderNr" "296-44940-1-ND"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
