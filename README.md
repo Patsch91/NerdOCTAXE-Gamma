@@ -4,7 +4,7 @@
 
 
 
-<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/ph6/Images/Rev3-4.jpg" width="700px">
+<img src="https://github.com/Patsch91/NerdOCTAXE-Gamma/blob/rev-3.4/Images/Rev3-4.jpg" width="700px">
 
 Rev3.4:
 - 6 Phase Buck Converter
